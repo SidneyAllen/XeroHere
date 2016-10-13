@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/country_code_spinner"
+    style="?android:attr/spinnerDropDownItemStyle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textSize="@dimen/text_body"
+    android:textColor="@color/sdk_dark_blue"
+    android:paddingLeft="6dp"
+    /><!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/layout/country_code_spinner.xml -->

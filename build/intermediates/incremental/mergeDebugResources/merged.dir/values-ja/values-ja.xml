@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s、%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s、%2$s、%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
+    <string name="back_button" note="accessibility hint">戻る</string>
+    <string name="checkmark" note="accessibility hint">チェックマーク</string>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>にはAndroid Wearアプリの更新が必要です。"</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはAndroid Wearアプリの更新が必要です。"</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Android Wearの更新"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>には現在利用されていないGoogle Play開発者サービスが必要です。詳しくはデベロッパーにお問い合わせください。"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Play開発者サービスの有効化"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行には、Google Play開発者サービスの有効化が必要です。"</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Play開発者サービスの有効化"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"<ns1:g id="APP_NAME">%1$s</ns1:g>によるリクエスト"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Play開発者サービスの入手"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスが必要ですが、お使いのスマートフォンにはインストールされていません。"</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスが必要ですが、お使いのタブレットにはインストールされていません。"</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Play開発者サービスの入手"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"指定したアカウントはこの端末上に存在しません。別のアカウントを選択してください。"</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"無効なアカウント"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"アプリではGoogle Play開発者サービスを有効にする必要があります"</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Google Play開発者サービスに接続するには、データ接続が必要です。"</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"ネットワークエラー"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"アプリではGoogle Play開発者サービスを更新する必要があります"</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Google Play開発者サービスのエラー"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"指定されたアカウントへのログイン中にエラーが発生しました。別のアカウントを選択してください。"</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"ログインできませんでした"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Google Play開発者サービスで原因不明の問題が発生しました。"</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>に必要なGoogle Play開発者サービスは、お使いの端末ではサポートされていません。詳しくは端末メーカーにお問い合わせください。"</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play開発者サービス"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスの更新が必要です。"</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Play開発者サービスの更新"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。"</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Google Play開発者サービスの更新中"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"端末で開く"</string>
+    <string name="ct_afghanistan">+93,アフガニスタン</string>
+    <string name="ct_algeria">+213,アルジェリア</string>
+    <string name="ct_angola">+244,アンゴラ</string>
+    <string name="ct_argentina">+54,アルゼンチン</string>
+    <string name="ct_australia">+61,オーストラリア</string>
+    <string name="ct_austria">+43,オーストリア</string>
+    <string name="ct_azerbaijan">+994,アゼルバイジャン</string>
+    <string name="ct_bangladesh">+880,バングラデシュ</string>
+    <string name="ct_belarus">+375,ベラルーシ</string>
+    <string name="ct_belgium">+32,ベルギー</string>
+    <string name="ct_benin">+229,ベニン</string>
+    <string name="ct_bolivia">+591,ボリビア</string>
+    <string name="ct_brazil">+55,ブラジル</string>
+    <string name="ct_bulgaria">+359,ブルガリア</string>
+    <string name="ct_burkina_faso">+226,ブルキナファソ</string>
+    <string name="ct_burundi">+257,ブルンジ</string>
+    <string name="ct_cambodia">+855,カンボジア</string>
+    <string name="ct_cameroon">+237,カメルーン</string>
+    <string name="ct_chad">+235,チャド</string>
+    <string name="ct_chile">+56,チリ</string>
+    <string name="ct_china">+86,中国</string>
+    <string name="ct_colombia">+57,コロンビア</string>
+    <string name="ct_congo_democratic_republic_of_the">+243,コンゴ民主共和国</string>
+    <string name="ct_cote_divoire">+225,コートジボワール</string>
+    <string name="ct_cuba">+53,キューバ</string>
+    <string name="ct_czech_republic">+420,チェコ共和国</string>
+    <string name="ct_dominican_republic">+1809,ドミニカ共和国</string>
+    <string name="ct_ecuador">+593,エクアドル</string>
+    <string name="ct_egypt">+20,エジプト</string>
+    <string name="ct_ethiopia">+251,エチオピア</string>
+    <string name="ct_france">+33,フランス</string>
+    <string name="ct_germany">+49,ドイツ</string>
+    <string name="ct_ghana">+233,ガーナ</string>
+    <string name="ct_greece">+30,ギリシャ</string>
+    <string name="ct_guatemala">+502,グアテマラ</string>
+    <string name="ct_guinea">+224,ギニア</string>
+    <string name="ct_haiti">+509,ハイチ</string>
+    <string name="ct_honduras">+504,ホンジュラス</string>
+    <string name="ct_hong_kong">+852,香港</string>
+    <string name="ct_hungary">+36,ハンガリー</string>
+    <string name="ct_india">+91,インド</string>
+    <string name="ct_indonesia">+62,インドネシア</string>
+    <string name="ct_iran">+98,イラン</string>
+    <string name="ct_iraq">+964,イラク</string>
+    <string name="ct_israel">+972,イスラエル</string>
+    <string name="ct_italy">+39,イタリア</string>
+    <string name="ct_japan">+81,日本</string>
+    <string name="ct_kazakhstan">+7,カザフスタン</string>
+    <string name="ct_kenya">+254,ケニア</string>
+    <string name="ct_korea_north">+850,朝鮮民主主義人民共和国</string>
+    <string name="ct_korea_south">+82,大韓民国</string>
+    <string name="ct_madagascar">+261,マダガスカル</string>
+    <string name="ct_malawi">+265,マラウイ</string>
+    <string name="ct_malaysia">+60,マレーシア</string>
+    <string name="ct_mali">+223,マリ</string>
+    <string name="ct_mexico">+52,メキシコ</string>
+    <string name="ct_morocco">+212,モロッコ</string>
+    <string name="ct_mozambique">+258,モザンビーク</string>
+    <string name="ct_nepal">+977,ネパール</string>
+    <string name="ct_netherlands">+31,オランダ</string>
+    <string name="ct_niger">+227,ニジェール</string>
+    <string name="ct_nigeria">+234,ナイジェリア</string>
+    <string name="ct_other">+,その他</string>
+    <string name="ct_pakistan">+92,パキスタン</string>
+    <string name="ct_peru">+51,ペルー</string>
+    <string name="ct_philippines">+63,フィリピン</string>
+    <string name="ct_poland">+48,ポーランド</string>
+    <string name="ct_portugal">+351,ポルトガル</string>
+    <string name="ct_romania">+40,ルーマニア</string>
+    <string name="ct_russia">+7,ロシア</string>
+    <string name="ct_rwanda">+250,ルワンダ</string>
+    <string name="ct_saudi_arabia">+966,サウジアラビア</string>
+    <string name="ct_senegal">+221,セネガル</string>
+    <string name="ct_serbia">+381,セルビア</string>
+    <string name="ct_somalia">+252,ソマリア</string>
+    <string name="ct_south_africa">+27,南アフリカ</string>
+    <string name="ct_south_sudan">+211,南スーダン</string>
+    <string name="ct_spain">+34,スペイン</string>
+    <string name="ct_sri_lanka">+94,スリランカ</string>
+    <string name="ct_sudan">+249,スーダン</string>
+    <string name="ct_sweden">+46,スウェーデン</string>
+    <string name="ct_switzerland">+41,スイス</string>
+    <string name="ct_syria">+963,シリア</string>
+    <string name="ct_taiwan">+886,台湾</string>
+    <string name="ct_tajikistan">+992,タジキスタン</string>
+    <string name="ct_tanzania">+255,タンザニア</string>
+    <string name="ct_thailand">+66,タイ</string>
+    <string name="ct_tunisia">+216,チュニジア</string>
+    <string name="ct_turkey">+90,トルコ</string>
+    <string name="ct_uganda">+256,ウガンダ</string>
+    <string name="ct_ukraine">+380,ウクライナ</string>
+    <string name="ct_united_kingdom">+44,英国</string>
+    <string name="ct_united_states">+1,米国・カナダ</string>
+    <string name="ct_uzbekistan">+998,ウズベキスタン</string>
+    <string name="ct_venezuela">+58,ベネズエラ</string>
+    <string name="ct_vietnam">+84,ベトナム</string>
+    <string name="ct_yemen">+967,イエメン</string>
+    <string name="ct_zambia">+260,ザンビア</string>
+    <string name="ct_zimbabwe">+263,ジンバブエ</string>
+    <string name="default_total_title" note="Total text on Total Label">合計金額</string>
+    <string name="next_button" note="accessibility hint">次へ</string>
+    <string name="receipt_icon_description" note="accessibility hint">レシートアイコン</string>
+    <string name="sdk_OK">OK</string>
+    <string name="sdk_actvy_device_connect_msg_update_reader_mandatory">接続されているカードリーダーのソフトウェアを更新できます。カードの支払いを受け付けるには、これが必要です。開始する前に、Wi-Fiでモバイル端末を接続し、リーダーを電源につなげてください。</string>
+    <string name="sdk_actvy_device_connect_msg_update_reader_optional">オプションの新しい更新プログラムがあります。インストールの所要時間はネットワークの速度によって異なります。更新処理中は取引を処理できません。</string>
+    <string name="sdk_actvy_device_connect_title_update_reader">カードリーダーの更新</string>
+    <string name="sdk_actvy_device_connect_update_reader_button_later">後で実行</string>
+    <string name="sdk_actvy_device_connect_update_reader_button_now">今すぐ実行</string>
+    <string name="sdk_actvy_receipt_email_hint">メールアドレス</string>
+    <string name="sdk_actvy_receipt_msg_ask_customer">レシートを発行しますか?</string>
+    <string name="sdk_actvy_receipt_msg_invalid_email" note="Invalid email address description">有効なメールアドレスを入力してください</string>
+    <string name="sdk_actvy_receipt_option_email">メール</string>
+    <string name="sdk_actvy_receipt_option_no_receipt">レシート不要</string>
+    <string name="sdk_actvy_receipt_option_print">印刷</string>
+    <string name="sdk_actvy_receipt_option_text">SMS</string>
+    <string name="sdk_actvy_receipt_text_hint">電話番号</string>
+    <string name="sdk_actvy_receipt_title_email">メールで送信</string>
+    <string name="sdk_actvy_receipt_title_payment_complete">支払い完了</string>
+    <string name="sdk_actvy_receipt_title_payment_declined">支払いを処理できませんでした</string>
+    <string name="sdk_actvy_receipt_title_payment_failed">支払いが失敗しました</string>
+    <string name="sdk_actvy_receipt_title_refund_failure">返金に失敗しました</string>
+    <string name="sdk_actvy_receipt_title_refund_success">返金完了</string>
+    <string name="sdk_actvy_receipt_title_send">送信</string>
+    <string name="sdk_actvy_receipt_title_text">SMSで送信</string>
+    <string name="sdk_actvy_receipt_title_transaction_cancelled">取引がキャンセルされました</string>
+    <string name="sdk_actvy_receipt_trxn_cancelled_msg_ask_customer">カードへの請求が行われていません。\nレシートを受け取りますか?</string>
+    <string name="sdk_actvy_signature_cancel">キャンセル</string>
+    <string name="sdk_actvy_signature_cancel_transaction" note="">キャンセル</string>
+    <string name="sdk_actvy_signature_cancel_transaction_message" note="">この取引をキャンセルしますか?</string>
+    <string name="sdk_actvy_signature_cancel_transaction_notallowed" note="">購入を完了する</string>
+    <string name="sdk_actvy_signature_cancel_transaction_notallowed_message" note="">[完了]をタップしてお支払いを完了してください。(注文の変更が必要な場合は、返金を求めることができます)。</string>
+    <string name="sdk_actvy_signature_charge_details">%1$sが%2$sに請求されました*%3$s</string>
+    <string name="sdk_actvy_signature_done">完了</string>
+    <string name="sdk_actvy_signature_msg">カード発行会社の規約に従い上記の金額を支払うことに同意します。</string>
+    <string name="sdk_actvy_signature_sign_here">ここにサイン</string>
+    <string name="sdk_actvy_sw_upd_msg_cancel">更新処理中は、アプリを終了したりリーダーの電源を切ったりしないでください。リーダーのハードリセットが必要になる場合があります。</string>
+    <string name="sdk_actvy_sw_upd_msg_do_not_quit">更新が完了するまでアプリを終了したり、カードリーダーのキーを押したりしないでください。</string>
+    <string name="sdk_actvy_sw_upd_msg_downloading">$1d/$2dのファイルをダウンロードしています</string>
+    <string name="sdk_actvy_sw_upd_msg_failure">更新に失敗しました</string>
+    <string name="sdk_actvy_sw_upd_msg_low_battery">接続されているカードリーダーのバッテリ残量がきわめて低い状態です。リーダーを充電してからもう一度お試しください。</string>
+    <string name="sdk_actvy_sw_upd_msg_start">接続されているカードリーダーのソフトウェアの新しい更新プログラムがあります。カードの支払いを受け付けるには、これが必要です。開始する前に、Wi-Fiでモバイル端末を接続し、リーダーを電源につなげてください。</string>
+    <string name="sdk_actvy_sw_upd_msg_step_in_progress">ステップ$1d/$2d</string>
+    <string name="sdk_actvy_sw_upd_msg_successful">カードリーダーが更新されました。カード支払いを受け取れるようになりました。</string>
+    <string name="sdk_actvy_sw_upd_title_initializing">端末を初期化中</string>
+    <string name="sdk_actvy_sw_upd_title_install_not_now">あとで実行</string>
+    <string name="sdk_actvy_sw_upd_title_install_now">今すぐインストール</string>
+    <string name="sdk_actvy_sw_upd_title_installing">更新プログラムのインストール中</string>
+    <string name="sdk_actvy_sw_upd_title_preparing">更新を準備中</string>
+    <string name="sdk_actvy_sw_upd_title_rebooting">カードリーダーの再起動中</string>
+    <string name="sdk_actvy_sw_upd_title_start">ソフトウェアの更新</string>
+    <string name="sdk_actvy_sw_upd_title_stop">停止</string>
+    <string name="sdk_actvy_sw_upd_title_successful">更新完了</string>
+    <string name="sdk_actvy_sw_upd_title_update">ソフトウェアの更新</string>
+    <string name="sdk_alert_dialog_refund_fail_title">返金できません</string>
+    <string name="sdk_alert_dialog_refund_failure_title">返金に失敗しました</string>
+    <string name="sdk_alert_dialog_refund_option_with_card">カードを使用して返金</string>
+    <string name="sdk_alert_dialog_refund_option_with_out_card">カードを使用せずに返金</string>
+    <string name="sdk_alert_dialog_refund_options_title">返金タイプを選択してください</string>
+    <string name="sdk_alert_dialog_refund_success_title">返金完了</string>
+    <string name="sdk_app_name">PayPal Here SDK</string>
+    <string name="sdk_cancel">キャンセル</string>
+    <string name="sdk_disabled_location_descr">取引情報のセキュリティ保護のため、このアプリではお客さまの現在位置情報が必要です。\n\n携帯の設定でネットワークやGPSによる位置情報サービスを有効にしてから、バックキーを使用してPayPal Hereに戻ってください。</string>
+    <string name="sdk_disabled_location_title">お客さまの位置情報が必要です</string>
+    <string name="sdk_dlg_msg_card_blocked">申し訳ございませんが、カードがブロックされました。カードを取り出して、カード発行会社にお問い合わせください。</string>
+    <string name="sdk_dlg_msg_card_incorrect_pin">暗証番号が間違っています。もう一度お試しください。</string>
+    <string name="sdk_dlg_msg_card_incorrect_pin_final">次回に入力する暗証番号が正しくない場合、カードがブロックされます。暗証番号を再入力するか、カードを取り出して取引をキャンセルしてください。</string>
+    <string name="sdk_dlg_msg_card_invalid">カードの読み取りに問題がありました。カードを取り出して、もう一度お試しください。</string>
+    <string name="sdk_dlg_msg_card_remove">カードを取り出してください</string>
+    <string name="sdk_dlg_msg_card_remove_declined">カードを取り出して、カード発行会社に詳細をお問い合わせください。</string>
+    <string name="sdk_dlg_msg_card_remove_failure">カードを取り出してカード発行会社に連絡してください</string>
+    <string name="sdk_dlg_msg_card_remove_try_swiping">カードの読み取りに問題がありました。カードをカードリーダーに通してみてください。</string>
+    <string name="sdk_dlg_msg_card_swipe_not_allowed">カードリーダーにカードを挿入してください</string>
+    <string name="sdk_dlg_msg_card_use_another">別のカードをご使用ください</string>
+    <string name="sdk_dlg_msg_configuring_device">カードリーダーを設定中…</string>
+    <string name="sdk_dlg_msg_connecting_device">カードリーダーに接続中…</string>
+    <string name="sdk_dlg_msg_contactless_insert_swipe">カードを挿入するかカードリーダーに通してください</string>
+    <string name="sdk_dlg_msg_contactless_try_another_card">カードを挿入するかカードリーダーに通してください。または別のカードをお試しください。</string>
+    <string name="sdk_dlg_msg_detecting_device">カードリーダーを検出中…</string>
+    <string name="sdk_dlg_msg_disabled_reader" note="">カードリーダーを使用できません。カスタマーサービスまでお電話ください</string>
+    <string name="sdk_dlg_msg_do_not_remove">カードを取り出さないでください</string>
+    <string name="sdk_dlg_msg_low_battery">カード支払いを処理するには、処理の前にカードリーダーを再充電する必要があります。\n\nカードを取り出して続行してください。\n</string>
+    <string name="sdk_dlg_msg_no_paired_devices">現時点でこの携帯電話にペアリングされた有効なPayPal端末はありません。\n\n[設定] > [Bluetooth]を選択してPayPal EMV端末をペアリングしてください。</string>
+    <string name="sdk_dlg_msg_receipt_error">システムエラーです。時間をおいてから再度お試しください。</string>
+    <string name="sdk_dlg_msg_receipt_sending">レシートを送信中…</string>
+    <string name="sdk_dlg_msg_refund_failure">返金に失敗しました。カードを取り出してください</string>
+    <string name="sdk_dlg_msg_refund_failure_invalid_card">カードが支払いに使われたカードと一致しません。カードを取り出してください。</string>
+    <string name="sdk_dlg_msg_refund_failure_terminal">返金処理中にエラーが発生しました。後ほどお試しください。</string>
+    <string name="sdk_dlg_msg_refund_processing">返金処理中…\nカードを取り出さないでください</string>
+    <string name="sdk_dlg_msg_refund_processing_fallback">返金処理中...</string>
+    <string name="sdk_dlg_msg_refund_success">返金が完了しました。カードを取り出してください</string>
+    <string name="sdk_dlg_msg_sw_upd_download_complete">最新ファイルのダウンロードが完了しました…</string>
+    <string name="sdk_dlg_msg_sw_upd_download_in_progress">ダウンロード中…</string>
+    <string name="sdk_dlg_msg_sw_upd_fetching_keys">端末キーを取得中…</string>
+    <string name="sdk_dlg_msg_sw_upd_initiating">ソフトウェアの更新プログラムを起動中…</string>
+    <string name="sdk_dlg_msg_sw_upd_install_in_progress">インストール中…</string>
+    <string name="sdk_dlg_msg_sw_upd_key_injection">端末にキーを入力中…</string>
+    <string name="sdk_dlg_msg_sw_upd_recommended">EMV端末のソフトウェアの更新を強くおすすめします。\n\n更新しなくても支払いを受け取ることはできます。ただし、更新を強くおすすめします</string>
+    <string name="sdk_dlg_msg_sw_upd_required">EMV端末のソフトウェアは更新が必要です。\n\n更新しない場合、この端末では支払いを受け取れません。</string>
+    <string name="sdk_dlg_msg_sw_upd_restarting_terminal">端末を再起動中…</string>
+    <string name="sdk_dlg_msg_sw_upd_update_in_progress">ソフトウェアを更新中…</string>
+    <string name="sdk_dlg_msg_trxn_cancelling">キャンセル中…</string>
+    <string name="sdk_dlg_msg_trxn_confirm_amount">金額を確認してください</string>
+    <string name="sdk_dlg_msg_trxn_processing_fallback">支払い処理中...</string>
+    <string name="sdk_dlg_title_card_blocked">カードがブロックされました</string>
+    <string name="sdk_dlg_title_card_broken_chip">カードを読み取れません</string>
+    <string name="sdk_dlg_title_card_enter_pin">暗証番号を入力</string>
+    <string name="sdk_dlg_title_card_incorrect_pin">暗証番号が間違っています</string>
+    <string name="sdk_dlg_title_card_insert">カードを挿入してください</string>
+    <string name="sdk_dlg_title_card_invalid">無効なカードです</string>
+    <string name="sdk_dlg_title_card_pin_verified">暗証番号はOKです</string>
+    <string name="sdk_dlg_title_card_swipe">カードをスワイプしてください</string>
+    <string name="sdk_dlg_title_card_swipe_not_allowed">スワイプはできません</string>
+    <string name="sdk_dlg_title_card_tap_insert">タップするかカードを挿入してください</string>
+    <string name="sdk_dlg_title_card_waiting_for_swipe">カードをカードリーダーに通してください</string>
+    <string name="sdk_dlg_title_connecting_device">接続中の相手 </string>
+    <string name="sdk_dlg_title_disabled_reader" note="">カードリーダーを使用できません</string>
+    <string name="sdk_dlg_title_low_battery">バッテリー不足</string>
+    <string name="sdk_dlg_title_paired_devices">接続先</string>
+    <string name="sdk_dlg_title_receipt_sending">レシートを送信中</string>
+    <string name="sdk_dlg_title_refund_confirm_amount">%sを返金</string>
+    <string name="sdk_dlg_title_refund_failure">返金に失敗しました</string>
+    <string name="sdk_dlg_title_refund_failure_invalid_card">返金できません</string>
+    <string name="sdk_dlg_title_refund_initiating">返金を開始中</string>
+    <string name="sdk_dlg_title_refund_option_with_card">カードを使用して返金</string>
+    <string name="sdk_dlg_title_refund_option_without_card">カードを使用せずに返金</string>
+    <string name="sdk_dlg_title_refund_options">返金タイプを選択してください</string>
+    <string name="sdk_dlg_title_refund_processing">返金処理中</string>
+    <string name="sdk_dlg_title_refund_success">返金完了</string>
+    <string name="sdk_dlg_title_sw_upd_recommended">ソフトウェアの更新を推奨します</string>
+    <string name="sdk_dlg_title_sw_upd_required">ソフトウェアの更新が必要です</string>
+    <string name="sdk_dlg_title_sw_upd_updating">ソフトウェアを更新中</string>
+    <string name="sdk_dlg_title_trxn_choose_from_multi_app">アプリを選択してください</string>
+    <string name="sdk_dlg_title_trxn_completing">支払い処理を完了中</string>
+    <string name="sdk_dlg_title_trxn_confirm_amount">%sを支払う</string>
+    <string name="sdk_dlg_title_trxn_failure">支払いを処理できませんでした</string>
+    <string name="sdk_dlg_title_trxn_initiating">支払いを開始中</string>
+    <string name="sdk_dlg_title_trxn_processing">支払い処理中</string>
+    <string name="sdk_dlg_title_trxn_successful">支払い完了</string>
+    <string name="sdk_mtp_failure_message">申し訳ありません。この取引を完了できませんでした。再度実行するか、この注文をキャンセルしてください。</string>
+    <string name="sdk_network_not_reachable">インターネットに接続されていないようです。PayPal Hereをご利用になるにはインターネット接続が必要です。</string>
+    <string name="sdk_no" note="">いいえ</string>
+    <string name="sdk_reader_contactless_timeout">カードの読み取りに問題がありました。カードリーダーにカードを近づけてみてください。</string>
+    <string name="sdk_try_again">再度実行</string>
+    <string name="sdk_yes" note="">はい</string>
+    <string name="send_receipt_email_change_description" note="accessibility hint">メールの変更</string>
+    <string name="send_receipt_phone_change_description" note="accessibility hint">番号の変更</string>
+    <string name="sms_international_code_msg" note="">番号には国コードも入力してください。</string>
+</resources>

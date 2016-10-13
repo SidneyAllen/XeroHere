@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="188932559761409"
+    token="4497053630511418994"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1670" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="149" />
+    <task
+        name="verifier"
+        duration="42" />
+
+    <artifact
+        location="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="186866142574399"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/steven.cooper/Desktop/mobile/XeroHere/build/outputs/apk/XeroHere-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="188932559761409"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

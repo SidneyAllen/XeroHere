@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.paypal.merchant.sdk"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.ACCESS_GPS" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application>
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.paypal.merchant.sdk.internal.ui.emv.EMVPaymentActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/sdk_app_name"
+            android:theme="@style/Theme.SDK.Transparent" />
+        <activity
+            android:name="com.paypal.merchant.sdk.internal.ui.swipe.SwipePaymentActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/sdk_app_name"
+            android:theme="@style/Theme.SDK.Transparent" />
+        <activity
+            android:name="com.paypal.merchant.sdk.internal.ui.checkin.CheckinPaymentActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/sdk_app_name"
+            android:theme="@style/Theme.SDK.Transparent" />
+        <activity
+            android:name="com.paypal.merchant.sdk.internal.ui.SDKRefundActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/sdk_app_name"
+            android:theme="@style/Theme.SDK.Transparent" />
+        <activity
+            android:name="com.paypal.merchant.sdk.internal.ui.emv.EMVRefundActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/sdk_app_name"
+            android:theme="@style/Theme.SDK.Transparent" />
+        <activity
+            android:name="com.paypal.merchant.sdk.internal.ui.signature.SignatureActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout"
+            android:exported="true"
+            android:label="@string/sdk_app_name"
+            android:theme="@style/Theme.SDK.Base" />
+        <activity
+            android:name="com.paypal.merchant.sdk.internal.ui.receipts.receiptoptions.ReceiptOptionsActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:label="@string/sdk_app_name"
+            android:theme="@style/Theme.SDK.Base" />
+        <activity
+            android:name="com.paypal.merchant.sdk.internal.ui.receipts.sendreceipt.SendReceiptActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:label="@string/sdk_app_name"
+            android:theme="@style/Theme.SDK.Destination" />
+        <activity
+            android:name="com.paypal.merchant.sdk.internal.ui.emv.EMVDeviceConnectActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/sdk_app_name"
+            android:theme="@style/Theme.SDK.Transparent" />
+        <activity
+            android:name="com.paypal.merchant.sdk.internal.ui.emv.EMVDeviceUpdateActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/sdk_app_name" />
+    </application>
+
+</manifest>

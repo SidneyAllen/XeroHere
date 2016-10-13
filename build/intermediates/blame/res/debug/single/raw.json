@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/res/merged/debug/raw/log.properties",
+        "source": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/paypal-here-sdk/res/raw/log.properties"
+    },
+    {
+        "merged": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/res/merged/debug/raw/servers_sdk.json",
+        "source": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/paypal-here-sdk/res/raw/servers_sdk.json"
+    },
+    {
+        "merged": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/res/merged/debug/raw/success_card_read.mp3",
+        "source": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/paypal-here-sdk/res/raw/success_card_read.mp3"
+    },
+    {
+        "merged": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/res/merged/debug/raw/loggers.json",
+        "source": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/paypal-here-sdk/res/raw/loggers.json"
+    },
+    {
+        "merged": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/res/merged/debug/raw/sdk_feature_map.json",
+        "source": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/paypal-here-sdk/res/raw/sdk_feature_map.json"
+    }
+]

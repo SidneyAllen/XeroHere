@@ -1,0 +1,9 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/spinner_item_height"
+    android:gravity="center_vertical"
+    android:layout_gravity="center_vertical"
+    android:textSize="@dimen/text_body"
+    android:paddingLeft="@dimen/large"
+    android:textColor="@drawable/spinner_select_text_color"
+    android:background="@drawable/spinner_dropdown_background_selector"/><!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/layout/spinner_list_item.xml -->

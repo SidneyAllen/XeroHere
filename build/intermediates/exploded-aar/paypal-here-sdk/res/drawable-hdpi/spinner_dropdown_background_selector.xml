@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/button_lightgrey_pressed" android:state_pressed="true"/>
+    <item android:drawable="@drawable/button_lightgrey_default" android:state_pressed="false"/>
+</selector>
+<!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/drawable-hdpi/spinner_dropdown_background_selector.xml -->

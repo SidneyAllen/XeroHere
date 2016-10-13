@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/sdk_action_bar_height"
+    android:background="@color/sdk_blue"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/ab_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:contentDescription="@string/checkmark"
+        android:background="@drawable/check_icon_green" />
+
+    <TextView
+        android:id="@+id/ab_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:paddingLeft="5dp"
+        android:textColor="@color/sdk_white"
+        android:text="@string/default_total_title"
+        android:textSize="@dimen/text_special"/>
+    
+</LinearLayout><!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/layout/sdk_receipt_options_titlebar.xml -->

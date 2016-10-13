@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="back_button" note="accessibility hint">Atrás</string>
+    <string name="checkmark" note="accessibility hint">Checkmark</string>
+    <!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/values-es/sms_country_data.xml -->
+    <eat-comment/>
+    <string name="ct_afghanistan">+93, Afganistán</string>
+    <string name="ct_algeria">+213, Argelia</string>
+    <string name="ct_angola">+244, Angola</string>
+    <string name="ct_argentina">+54, Argentina</string>
+    <string name="ct_australia">+61, Australia</string>
+    <string name="ct_austria">+43, Austria</string>
+    <string name="ct_azerbaijan">+994, Azerbaiyán</string>
+    <string name="ct_bangladesh">+880, Bangladesh</string>
+    <string name="ct_belarus">+375, Bielorrusia</string>
+    <string name="ct_belgium">+32, Bélgica</string>
+    <string name="ct_benin">+229, Benín</string>
+    <string name="ct_bolivia">+591, Bolivia</string>
+    <string name="ct_brazil">+55, Brasil</string>
+    <string name="ct_bulgaria">+359, Bulgaria</string>
+    <string name="ct_burkina_faso">+226, Burkina Faso</string>
+    <string name="ct_burundi">+257, Burundi</string>
+    <string name="ct_cambodia">+855, Camboya</string>
+    <string name="ct_cameroon">+237, Camerún</string>
+    <string name="ct_chad">+235, Chad</string>
+    <string name="ct_chile">+56, Chile</string>
+    <string name="ct_china">+86, China</string>
+    <string name="ct_colombia">+57, Colombia</string>
+    <string name="ct_congo_democratic_republic_of_the">+243, República Democrática del Congo</string>
+    <string name="ct_cote_divoire">+225, Costa de Marfil</string>
+    <string name="ct_cuba">+53, Cuba</string>
+    <string name="ct_czech_republic">+420, República Checa</string>
+    <string name="ct_dominican_republic">+1809, República Dominicana</string>
+    <string name="ct_ecuador">+593, Ecuador</string>
+    <string name="ct_egypt">+20, Egipto</string>
+    <string name="ct_ethiopia">+251, Etiopía</string>
+    <string name="ct_france">+33, Francia</string>
+    <string name="ct_germany">+49, Alemania</string>
+    <string name="ct_ghana">+233, Ghana</string>
+    <string name="ct_greece">+30, Grecia</string>
+    <string name="ct_guatemala">+502, Guatemala</string>
+    <string name="ct_guinea">+224, Guinea</string>
+    <string name="ct_haiti">+509, Haití</string>
+    <string name="ct_honduras">+504, Honduras</string>
+    <string name="ct_hong_kong">+852, Hong Kong</string>
+    <string name="ct_hungary">+36, Hungría</string>
+    <string name="ct_india">+91, India</string>
+    <string name="ct_indonesia">+62, Indonesia</string>
+    <string name="ct_iran">+98, Irán</string>
+    <string name="ct_iraq">+964, Iraq</string>
+    <string name="ct_israel">+972, Israel</string>
+    <string name="ct_italy">+39, Italia</string>
+    <string name="ct_japan">+81, Japón</string>
+    <string name="ct_kazakhstan">+7, Kazajistán</string>
+    <string name="ct_kenya">+254, Kenia</string>
+    <string name="ct_korea_north">+850, Corea del Norte</string>
+    <string name="ct_korea_south">+82, Corea del Sur</string>
+    <string name="ct_madagascar">+261, Madagascar</string>
+    <string name="ct_malawi">+265, Malawi</string>
+    <string name="ct_malaysia">+60, Malasia</string>
+    <string name="ct_mali">+223, Mali</string>
+    <string name="ct_mexico">+52, México</string>
+    <string name="ct_morocco">+212, Marruecos</string>
+    <string name="ct_mozambique">+258, Mozambique</string>
+    <string name="ct_nepal">+977, Nepal</string>
+    <string name="ct_netherlands">+31, Países Bajos</string>
+    <string name="ct_niger">+227, Níger</string>
+    <string name="ct_nigeria">+234, Nigeria</string>
+    <string name="ct_other">+, Otro</string>
+    <string name="ct_pakistan">+92, Pakistán</string>
+    <string name="ct_peru">+51, Perú</string>
+    <string name="ct_philippines">+63, Filipinas</string>
+    <string name="ct_poland">+48, Polonia</string>
+    <string name="ct_portugal">+351, Portugal</string>
+    <string name="ct_romania">+40, Rumanía</string>
+    <string name="ct_russia">+7, Rusia</string>
+    <string name="ct_rwanda">+250, Ruanda</string>
+    <string name="ct_saudi_arabia">+966, Arabia Saudí</string>
+    <string name="ct_senegal">+221, Senegal</string>
+    <string name="ct_serbia">+381, Serbia</string>
+    <string name="ct_somalia">+252, Somalia</string>
+    <string name="ct_south_africa">+27, Sudáfrica</string>
+    <string name="ct_south_sudan">+211, Sudán del Sur</string>
+    <string name="ct_spain">+34, España</string>
+    <string name="ct_sri_lanka">+94, Sri Lanka</string>
+    <string name="ct_sudan">+249, Sudán</string>
+    <string name="ct_sweden">+46, Suecia</string>
+    <string name="ct_switzerland">+41, Suiza</string>
+    <string name="ct_syria">+963, Siria</string>
+    <string name="ct_taiwan">+886, Taiwán</string>
+    <string name="ct_tajikistan">+992, Tayikistán</string>
+    <string name="ct_tanzania">+255, Tanzania</string>
+    <string name="ct_thailand">+66, Tailandia</string>
+    <string name="ct_tunisia">+216, Túnez</string>
+    <string name="ct_turkey">+90, Turquía</string>
+    <string name="ct_uganda">+256, Uganda</string>
+    <string name="ct_ukraine">+380, Ucrania</string>
+    <string name="ct_united_kingdom">+44, Reino Unido</string>
+    <string name="ct_united_states">+1, Estados Unidos y Canadá</string>
+    <string name="ct_uzbekistan">+998, Uzbekistán</string>
+    <string name="ct_venezuela">+58, Venezuela</string>
+    <string name="ct_vietnam">+84, Vietnam</string>
+    <string name="ct_yemen">+967, Yemen</string>
+    <string name="ct_zambia">+260, Zambia</string>
+    <string name="ct_zimbabwe">+263, Zimbabue</string>
+    <!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="default_total_title" note="Total text on Total Label">TOTAL</string>
+    <string name="invalid_login_information">Información de inicio de sesión no válida. Inténtelo de nuevo.</string>
+    <string name="login_failed">Error de inicio de sesión. Favor de ingresar a www.paypal.com para resolver este problema.</string>
+    <string name="next_button" note="accessibility hint">Siguiente</string>
+    <string name="receipt_icon_description" note="accessibility hint">Icono de Recibos</string>
+    <string name="sdk_OK">Aceptar</string>
+    <string name="sdk_actvy_device_connect_msg_update_reader_mandatory">Hay disponible una nueva actualización de software para el lector de tarjetas que está conectado. Se requiere esto para aceptar pagos con tarjeta. Conecte su dispositivo móvil mediante Wi-Fi y conecte el lector a una fuente de alimentación antes de comenzar.</string>
+    <string name="sdk_actvy_device_connect_msg_update_reader_optional">Hay disponible una nueva actualización de software opcional. El tiempo de instalación varía en función de la velocidad de la red y no podrá procesar transacciones durante el proceso de actualización.</string>
+    <string name="sdk_actvy_device_connect_title_update_reader">Actualice su lector de tarjetas</string>
+    <string name="sdk_actvy_device_connect_update_reader_button_later">Más tarde</string>
+    <string name="sdk_actvy_device_connect_update_reader_button_now">Ahora</string>
+    <string name="sdk_actvy_receipt_email_hint">Correo electrónico</string>
+    <string name="sdk_actvy_receipt_msg_ask_customer">¿Desea un recibo?</string>
+    <string name="sdk_actvy_receipt_msg_invalid_email" note="Invalid email address description">Ingrese una dirección de correo electrónico válida</string>
+    <string name="sdk_actvy_receipt_option_email">Correo electrónico</string>
+    <string name="sdk_actvy_receipt_option_no_receipt">Ningún recibo</string>
+    <string name="sdk_actvy_receipt_option_print">Imprimir</string>
+    <string name="sdk_actvy_receipt_option_text">Enviar por mensaje de texto</string>
+    <string name="sdk_actvy_receipt_text_hint">Número de teléfono</string>
+    <string name="sdk_actvy_receipt_title_email">Recibo por correo electrónico</string>
+    <string name="sdk_actvy_receipt_title_payment_complete">Pago realizado</string>
+    <string name="sdk_actvy_receipt_title_payment_declined">Declinada</string>
+    <string name="sdk_actvy_receipt_title_payment_failed">Error de pago</string>
+    <string name="sdk_actvy_receipt_title_refund_failure">Reembolso cancelado</string>
+    <string name="sdk_actvy_receipt_title_refund_success">Reembolso realizado</string>
+    <string name="sdk_actvy_receipt_title_send">Enviar</string>
+    <string name="sdk_actvy_receipt_title_text">Recibo de texto</string>
+    <string name="sdk_actvy_receipt_title_transaction_cancelled">Transacción cancelada</string>
+    <string name="sdk_actvy_receipt_trxn_cancelled_msg_ask_customer">No se ha realizado ningún cargo en su tarjeta de crédito.\n¿Desea un recibo?</string>
+    <string name="sdk_actvy_signature_cancel">Cancelar</string>
+    <string name="sdk_actvy_signature_cancel_transaction" note="">Cancelar</string>
+    <string name="sdk_actvy_signature_cancel_transaction_message" note="">¿Desea cancelar esta transacción?</string>
+    <string name="sdk_actvy_signature_cancel_transaction_notallowed" note="">Completar compra</string>
+    <string name="sdk_actvy_signature_cancel_transaction_notallowed_message" note="">Pulse Listo para completar esta compra. (Si tiene que cambiar su pedido, puede pedir un reembolso. )</string>
+    <string name="sdk_actvy_signature_charge_details">%1$s cargado a %2$s *%3$s</string>
+    <string name="sdk_actvy_signature_done">Hecho</string>
+    <string name="sdk_actvy_signature_msg">Acepto pagar el importe arriba mencionado, conforme al acuerdo del emisor de la tarjeta.</string>
+    <string name="sdk_actvy_signature_sign_here">Firme aquí</string>
+    <string name="sdk_actvy_sw_upd_msg_cancel">No cierre la aplicación ni desactive el lector durante el proceso de actualización. Hacerlo podría requerir un restablecimiento completo de su lector.</string>
+    <string name="sdk_actvy_sw_upd_msg_do_not_quit">No cierre la aplicación o pulse cualquier tecla en el lector de tarjetas hasta que la actualización haya concluido.</string>
+    <string name="sdk_actvy_sw_upd_msg_downloading">Descargando $1d de $2d archivos</string>
+    <string name="sdk_actvy_sw_upd_msg_failure">Lo sentimos, no se pudo completar la actualización.</string>
+    <string name="sdk_actvy_sw_upd_msg_low_battery">El nivel de la batería del lector conectado es críticamente bajo. Cargue el lector e intente de nuevo.</string>
+    <string name="sdk_actvy_sw_upd_msg_start">Hay disponible una nueva actualización de software para el lector de tarjetas que está conectado. Se requiere esto para aceptar pagos con tarjeta. Conecte su dispositivo móvil mediante Wi-Fi y conecte el lector a una fuente de corriente antes de comenzar</string>
+    <string name="sdk_actvy_sw_upd_msg_step_in_progress">Paso $1d de $2d</string>
+    <string name="sdk_actvy_sw_upd_msg_successful">Ahora puede aceptar pagos con tarjeta.</string>
+    <string name="sdk_actvy_sw_upd_title_failure">Actualización del software errónea</string>
+    <string name="sdk_actvy_sw_upd_title_initializing">Inicializando terminal</string>
+    <string name="sdk_actvy_sw_upd_title_install_not_now">Ahora no</string>
+    <string name="sdk_actvy_sw_upd_title_install_now">Instalar ahora</string>
+    <string name="sdk_actvy_sw_upd_title_installing">Instalando actualización</string>
+    <string name="sdk_actvy_sw_upd_title_preparing">Preparándose para la actualización</string>
+    <string name="sdk_actvy_sw_upd_title_rebooting">Reiniciando el lector de tarjetas</string>
+    <string name="sdk_actvy_sw_upd_title_start">Actualice su software</string>
+    <string name="sdk_actvy_sw_upd_title_stop">Parar</string>
+    <string name="sdk_actvy_sw_upd_title_successful">Actualización correcta</string>
+    <string name="sdk_actvy_sw_upd_title_update">Actualización de software</string>
+    <string name="sdk_alert_dialog_refund_fail_title">No se puede reembolsar</string>
+    <string name="sdk_alert_dialog_refund_failure_title">Reembolso erróneo</string>
+    <string name="sdk_alert_dialog_refund_option_with_card">Reembolso con tarjeta</string>
+    <string name="sdk_alert_dialog_refund_option_with_out_card">Reembolso sin tarjeta</string>
+    <string name="sdk_alert_dialog_refund_options_title">Elija el tipo de reembolso</string>
+    <string name="sdk_alert_dialog_refund_success_title">El reembolso se hizo correctamente</string>
+    <string name="sdk_app_name">SDK de PayPal Here</string>
+    <string name="sdk_back_dated_invoice" note="Error message for when a user\&apos;s phone is set to a date-time in the past - a situation that causes an invoicing API error">No se puede procesar este pedido porque la fecha y hora de su teléfono parecen ser incorrectas. Corrija la configuración de hora y fecha de su teléfono, luego procese su pedido.</string>
+    <string name="sdk_cancel">Cancelar</string>
+    <string name="sdk_decryption_failure">Hubo un problema al leer la información de la tarjeta. Inténtelo de nuevo.</string>
+    <string name="sdk_disabled_emv_terminal">El lector de tarjetas está desactivado. Llame al Servicio de Atención al Cliente, al %1$s.</string>
+    <string name="sdk_disabled_location_descr">Por seguridad de los consumidores y comercios, esta aplicación requiere que dé a conocer su ubicación.\n\nHabilite los servicios de localización en la configuración de su dispositivo.</string>
+    <string name="sdk_disabled_location_title">PayPal necesita su ubicación</string>
+    <string name="sdk_dlg_fallback_insert_card_msg">El emisor de la tarjeta requiere que inserte la tarjeta.</string>
+    <string name="sdk_dlg_fallback_insert_card_title">Insertar tarjeta</string>
+    <string name="sdk_dlg_msg_amount_too_high" note="">El importe máximo para pagos con tarjeta es%1$s. Ingrese un importe nuevo o elija una forma de pago diferente.</string>
+    <string name="sdk_dlg_msg_amount_too_low" note="">El importe mínimo para pagos de la tarjeta es %1$s Ingrese un importe nuevo o elija una forma de pago diferente.</string>
+    <string name="sdk_dlg_msg_card_blocked">Lamentablemente, la tarjeta ha sido bloqueada. Retire su tarjeta y póngase en contacto con el emisor de esta para recibir recomendaciones.</string>
+    <string name="sdk_dlg_msg_card_fallback_swipe">Deslice la tarjeta en la parte superior del lector.</string>
+    <string name="sdk_dlg_msg_card_incorrect_pin">El NIP es incorrecto. Inténtelo de nuevo.</string>
+    <string name="sdk_dlg_msg_card_incorrect_pin_final">Si se vuelve a ingresar incorrectamente el NIP, la tarjeta se bloqueará. Inténtelo de nuevo o retire la tarjeta para cancelar la transacción.</string>
+    <string name="sdk_dlg_msg_card_invalid">Inténtelo de nuevo. Inserte firmemente la tarjeta, introduciendo el chip primero, en la parte inferior del lector de tarjetas.</string>
+    <string name="sdk_dlg_msg_card_issuer_not_accepted" note="">La transacción no se pudo concluir correctamente. Aconseje al cliente utilizar otra forma de pago.</string>
+    <string name="sdk_dlg_msg_card_remove">Retire la tarjeta</string>
+    <string name="sdk_dlg_msg_card_remove_declined">Elimine la tarjeta y póngase en contacto con el emisor de la tarjeta para obtener más información.</string>
+    <string name="sdk_dlg_msg_card_remove_failure">Retire la tarjeta y póngase en contacto con el emisor</string>
+    <string name="sdk_dlg_msg_card_remove_try_swiping">Hubo un problema al leer la tarjeta. Intente deslizar la tarjeta.</string>
+    <string name="sdk_dlg_msg_card_swipe_not_allowed">Introduzca la tarjeta.</string>
+    <string name="sdk_dlg_msg_card_use_another">Utilice otra tarjeta</string>
+    <string name="sdk_dlg_msg_configuring_device">Configurando el lector de tarjetas…</string>
+    <string name="sdk_dlg_msg_connecting_device">Conectándose al lector de tarjetas…</string>
+    <string name="sdk_dlg_msg_contactless_insert_swipe">Inserte o deslice su tarjeta</string>
+    <string name="sdk_dlg_msg_contactless_try_another_card">Inserte o deslice su tarjeta ahora o intente con otra tarjeta.</string>
+    <string name="sdk_dlg_msg_detecting_device">Detectando el lector de tarjetas…</string>
+    <string name="sdk_dlg_msg_disabled_reader" note="">El lector de tarjetas está desactivado. Llame al Servicio de Atención al Cliente</string>
+    <string name="sdk_dlg_msg_do_not_remove">No retire la tarjeta.</string>
+    <string name="sdk_dlg_msg_fallback_to_contact_msg">¿Desea intentar de nuevo insertando la tarjeta?</string>
+    <string name="sdk_dlg_msg_fallback_to_contact_title">Transacción sin contacto declinada</string>
+    <string name="sdk_dlg_msg_low_battery">Debe recargar su lector de tarjetas para poder continuar procesando pagos con tarjeta.\n\nRetire la tarjeta para continuar.\n</string>
+    <string name="sdk_dlg_msg_no_paired_devices">No se ha asociado ningún dispositivo de PayPal.\n\nVaya a Configuración->Bluetooth para asociar con un dispositivo EMV de PayPal</string>
+    <string name="sdk_dlg_msg_receipt_error">Error del sistema. Inténtelo de nuevo más tarde</string>
+    <string name="sdk_dlg_msg_receipt_sending">Enviando recibo…</string>
+    <string name="sdk_dlg_msg_refund_failure">Retire la tarjeta</string>
+    <string name="sdk_dlg_msg_refund_failure_invalid_card">La tarjeta no coincide con la tarjeta usada para la transacción. Retire la tarjeta</string>
+    <string name="sdk_dlg_msg_refund_failure_terminal">Error al procesar el reembolso. Inténtelo de nuevo más tarde.</string>
+    <string name="sdk_dlg_msg_refund_incorrect_card">Para procesar este reembolso, utilice la misma tarjeta que utilizó para el pago original.</string>
+    <string name="sdk_dlg_msg_refund_processing">No retire la tarjeta.</string>
+    <string name="sdk_dlg_msg_refund_processing_fallback">Procesando reembolso...</string>
+    <string name="sdk_dlg_msg_refund_success">Retire la tarjeta</string>
+    <string name="sdk_dlg_msg_sw_upd_download_complete">Se ha completado la descarga del archivo actual…</string>
+    <string name="sdk_dlg_msg_sw_upd_download_in_progress">Descarga en curso…</string>
+    <string name="sdk_dlg_msg_sw_upd_fetching_keys">Recopilando las claves de terminal…</string>
+    <string name="sdk_dlg_msg_sw_upd_initiating">Iniciando la actualización de software…</string>
+    <string name="sdk_dlg_msg_sw_upd_install_in_progress">Instalación en curso…</string>
+    <string name="sdk_dlg_msg_sw_upd_key_injection">Inyectando claves al terminal…</string>
+    <string name="sdk_dlg_msg_sw_upd_recommended">Se recomienda enfáticamente actualizar el software en el dispositivo EMV. \n\nSin esto podrá aceptar los pagos de todos modos. Pero se recomienda enfáticamente actualizarlo</string>
+    <string name="sdk_dlg_msg_sw_upd_required">El software en el dispositivo EMV necesita estar actualizado.\n\nSin esto, el dispositivo no se podrá utilizar para aceptar pagos.</string>
+    <string name="sdk_dlg_msg_sw_upd_restarting_terminal">Reiniciando el terminal…</string>
+    <string name="sdk_dlg_msg_sw_upd_update_in_progress">Actualización de software en curso…</string>
+    <string name="sdk_dlg_msg_trxn_cancelling">Cancelando…</string>
+    <string name="sdk_dlg_msg_trxn_confirm_amount">Comprobar y confirmar importe</string>
+    <string name="sdk_dlg_msg_trxn_processing_fallback">Procesando…</string>
+    <string name="sdk_dlg_title_amount_too_high" note="">Importe demasiado alto</string>
+    <string name="sdk_dlg_title_amount_too_low" note="">Importe demasiado bajo</string>
+    <string name="sdk_dlg_title_card_blocked">Tarjeta bloqueada</string>
+    <string name="sdk_dlg_title_card_broken_chip">No es posible leer la tarjeta</string>
+    <string name="sdk_dlg_title_card_enter_pin">Ingrese el NIP en el teclado numérico del lector de tarjetas.</string>
+    <string name="sdk_dlg_title_card_incorrect_pin">NIP incorrecto</string>
+    <string name="sdk_dlg_title_card_insert">Introduzca la tarjeta</string>
+    <string name="sdk_dlg_title_card_invalid">Tarjeta no válida</string>
+    <string name="sdk_dlg_title_card_pin_verified">NIP OK</string>
+    <string name="sdk_dlg_title_card_swipe_not_allowed">Tarjeta con chip detectada</string>
+    <string name="sdk_dlg_title_card_tap_insert">Pulse, inserte o deslice su tarjeta</string>
+    <string name="sdk_dlg_title_card_waiting_for_swipe">Deslice la tarjeta</string>
+    <string name="sdk_dlg_title_connecting_device">Conectando con </string>
+    <string name="sdk_dlg_title_disabled_reader" note="">Lector de tarjetas deshabilitado</string>
+    <string name="sdk_dlg_title_low_battery">Batería baja</string>
+    <string name="sdk_dlg_title_paired_devices">Conectar con</string>
+    <string name="sdk_dlg_title_reader_not_connected_msg_payment">Conecte un lector de tarjetas para procesar este pago</string>
+    <string name="sdk_dlg_title_reader_not_connected_msg_refund">Conecte un lector de tarjetas para procesar este reembolso</string>
+    <string name="sdk_dlg_title_reader_not_connected_title">Lector de tarjetas sin conectar</string>
+    <string name="sdk_dlg_title_receipt_sending">Enviando recibo</string>
+    <string name="sdk_dlg_title_refund_confirm_amount">Reembolsar %s</string>
+    <string name="sdk_dlg_title_refund_failure">Reembolso erróneo</string>
+    <string name="sdk_dlg_title_refund_failure_invalid_card">No se puede reembolsar</string>
+    <string name="sdk_dlg_title_refund_incorrect_card">Tarjeta incorrecta</string>
+    <string name="sdk_dlg_title_refund_initiating">Iniciando reembolso</string>
+    <string name="sdk_dlg_title_refund_option_with_card">Reembolso con tarjeta</string>
+    <string name="sdk_dlg_title_refund_option_without_card">Reembolso sin tarjeta</string>
+    <string name="sdk_dlg_title_refund_options">Elija el tipo de reembolso</string>
+    <string name="sdk_dlg_title_refund_processing">Procesando reembolso</string>
+    <string name="sdk_dlg_title_refund_success">%1$s Reembolsado</string>
+    <string name="sdk_dlg_title_sw_upd_recommended">Se recomienda actualizar el software</string>
+    <string name="sdk_dlg_title_sw_upd_required">Actualización de software necesaria</string>
+    <string name="sdk_dlg_title_sw_upd_updating">Actualizando el software</string>
+    <string name="sdk_dlg_title_trxn_choose_from_multi_app">Elija una aplicación</string>
+    <string name="sdk_dlg_title_trxn_completing">Concluyendo pago…</string>
+    <string name="sdk_dlg_title_trxn_confirm_amount">Pagar %s</string>
+    <string name="sdk_dlg_title_trxn_failure">Declinada</string>
+    <string name="sdk_dlg_title_trxn_initiating">Iniciando pago</string>
+    <string name="sdk_dlg_title_trxn_processing">Procesando…</string>
+    <string name="sdk_dlg_title_trxn_processing_with_chip">No retire la tarjeta\nProcesando…</string>
+    <string name="sdk_dlg_title_trxn_successful">El pago ha sido realizado correctamente</string>
+    <string name="sdk_dlg_title_trxn_successful_amount">%1$s Pagado</string>
+    <string name="sdk_error">Error</string>
+    <string name="sdk_finalize_transaction_failure">La transacción no se ha podido concluir correctamente. Inténtelo con otra forma de pago.</string>
+    <string name="sdk_generic_error">Error del sistema. Inténtelo de nuevo más tarde.</string>
+    <string name="sdk_invoice_number_already_exists">Ya existe un recibo de este comercio con este número de recibo PayPal: %1$s.</string>
+    <string name="sdk_merchant_account_limited">El acceso a la cuenta de comercio está limitado</string>
+    <string name="sdk_mtp_failure_message">Lo sentimos, pero no se pudo realizar esta transacción. Intente de nuevo o cancele este pedido.</string>
+    <string name="sdk_network_not_reachable">Al parecer no está conectado a Internet. Debe estar conectado para poder utilizar PayPal Here.</string>
+    <string name="sdk_no" note="">No</string>
+    <string name="sdk_no_network_available">Al parecer no está conectado a Internet. Debe estar conectado para poder utilizar PayPal Here.</string>
+    <string name="sdk_not_now">Ahora no</string>
+    <string name="sdk_payment_processing_failure">Lo sentimos, pero no se pudo realizar esta transacción. Intente de nuevo o cancele este pedido.</string>
+    <string name="sdk_reader_amount_entered_too_high">El máximo de la tarjeta es\n%s</string>
+    <string name="sdk_reader_amount_entered_too_low">El mínimo de la tarjeta es\n%s</string>
+    <string name="sdk_reader_amount_not_entered">Ingrese un importe\nen la aplicación.</string>
+    <string name="sdk_reader_cancelling_payment">Cancelando...</string>
+    <string name="sdk_reader_card_issuer_not_accepted">Tarjeta no reconocida.\nIntente con otra\nforma de\npago.</string>
+    <string name="sdk_reader_completing_payment">Concluyendo pago...</string>
+    <string name="sdk_reader_completing_payment_with_card">Concluyendo pago...\nNo retire la tarjeta.</string>
+    <string name="sdk_reader_confirm_amount">%s\nConfirmar importe</string>
+    <string name="sdk_reader_contactless_insert_swipe">No es posible leer la tarjeta\nInserte o deslice la tarjeta</string>
+    <string name="sdk_reader_contactless_timeout">%s\nTiempo de espera de la transacción agotado</string>
+    <string name="sdk_reader_contactless_try_another_card">No es posible leer la tarjeta\nInserte o deslice la tarjeta\no intente con otra tarjeta</string>
+    <string name="sdk_reader_fallback_card_insert">El emisor de la tarjeta requiere\nque inserte\nla tarjeta.</string>
+    <string name="sdk_reader_idle">Listo para aceptar\npagos.</string>
+    <string name="sdk_reader_idle_with_pending_sw_update">Actualización de software\nnecesaria.</string>
+    <string name="sdk_reader_payment_cancelled">%s\nTransacción cancelada</string>
+    <string name="sdk_reader_payment_cancelled_with_card">%s\nTransacción cancelada\nRetire la tarjeta.</string>
+    <string name="sdk_reader_payment_complete">%s pagado.\n¡Gracias!</string>
+    <string name="sdk_reader_payment_declined">%s\nDeclinada.</string>
+    <string name="sdk_reader_payment_declined_receipt_message">Comuníquese con el\nemisor de su tarjeta.</string>
+    <string name="sdk_reader_payment_declined_with_card">%s\nDeclinada.\nRetire la tarjeta.</string>
+    <string name="sdk_reader_payment_failed">%s\nError en el pago.</string>
+    <string name="sdk_reader_payment_pin_ok">No retire la tarjeta\nProcesando...\nNIP correcto</string>
+    <string name="sdk_reader_payment_remove_card">%s pagado.\nRetire la tarjeta.</string>
+    <string name="sdk_reader_processing_payment">Procesando...</string>
+    <string name="sdk_reader_processing_payment_with_amount">%s\nProcesando...</string>
+    <string name="sdk_reader_processing_payment_with_amount_and_card">%s\nNo retire la tarjeta\nProcesando...</string>
+    <string name="sdk_reader_processing_payment_with_card">No retire la tarjeta\nProcesando...</string>
+    <string name="sdk_reader_refund_cancelled">%s\nReembolso cancelado.</string>
+    <string name="sdk_reader_refund_complete">%s reembolsado.\n¡Gracias!</string>
+    <string name="sdk_reader_refund_failed">%s\nError en el reembolso.</string>
+    <string name="sdk_reader_refund_remove_card">%s reembolsado.\nRetire la tarjeta.</string>
+    <string name="sdk_reader_retry_with_contact_card">¿Desea volver a intentar\ninsertando o\ndeslizando la tarjeta?</string>
+    <string name="sdk_reader_sw_update_downloading">Descargando actualización.\nEspere...</string>
+    <string name="sdk_reader_sw_update_failed">Actualización de software\nfallida.</string>
+    <string name="sdk_reader_sw_update_initializing">Inicializando\nel lector...</string>
+    <string name="sdk_reader_sw_update_installing">Instalando actualización.\nEspere...</string>
+    <string name="sdk_reader_sw_update_preparing">Preparándose para la\nactualización...</string>
+    <string name="sdk_reader_sw_update_restarting">Reiniciando el\nlector...</string>
+    <string name="sdk_reader_swipe_card">Deslice la tarjeta.</string>
+    <string name="sdk_reader_swipe_not_allowed">No se permite deslizar\nInserte la tarjeta</string>
+    <string name="sdk_reader_waiting_for_signature">Esperando la\nfirma...</string>
+    <string name="sdk_reader_wrong_online_pin">NIP incorrecto\nIntente de nuevo</string>
+    <string name="sdk_try_again">Inténtelo de nuevo</string>
+    <string name="sdk_try_again_no_netowrk_message">Lo sentimos, pero no hay redes disponibles para completar la transacción. Intente de nuevo o cancele este pedido.</string>
+    <string name="sdk_unsupported_card_type">Esta tarjeta de crédito no es compatible por el momento con PayPal Here. Utilice un tipo de tarjeta diferente.</string>
+    <string name="sdk_yes" note="">Sí</string>
+    <string name="send_receipt_email_change_description" note="accessibility hint">Cambiar correo electrónico</string>
+    <string name="send_receipt_phone_change_description" note="accessibility hint">Cambiar número</string>
+    <string name="sms_international_code_msg" note="">El número debe incluir el código del país.</string>
+</resources>

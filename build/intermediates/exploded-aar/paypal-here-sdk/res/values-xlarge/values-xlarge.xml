@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/values-xlarge/values.xml -->
+    <eat-comment/>
+    <bool name="portrait_only">false</bool>
+</resources>

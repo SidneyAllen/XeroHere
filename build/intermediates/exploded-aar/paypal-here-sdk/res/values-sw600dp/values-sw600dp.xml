@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/values-sw600dp/values.xml -->
+    <eat-comment/>
+    <bool name="portrait_only">false</bool>
+    <dimen name="abc_action_bar_default_height_material">64dp</dimen>
+    <!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/values-sw600dp/style.xml -->
+    <eat-comment/>
+    <style name="DestinationMargin">
+        <item name="android:visibility">visible</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:dropDownListViewStyle">@style/spinner_style</item>
+    </style>
+    <!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/values-sw600dp/themes.xml -->
+    <eat-comment/>
+    <style name="Theme.SDK.Destination" parent="Theme.SDK">
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.5</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:configChanges">keyboardHidden|orientation|screenSize</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:dropDownListViewStyle">@style/spinner_style</item>
+    </style>
+</resources>

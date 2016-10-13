@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/values-zh-rHK/strings.xml -->
+    <eat-comment/>
+    <string name="back_button" note="accessibility hint">返回</string>
+    <string name="checkmark" note="accessibility hint">選取標記</string>
+    <!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/values-zh-rHK/sms_country_data.xml -->
+    <eat-comment/>
+    <string name="ct_afghanistan">+93, 阿富汗</string>
+    <string name="ct_algeria">+213, 阿爾及利亞</string>
+    <string name="ct_angola">+244, 安哥拉</string>
+    <string name="ct_argentina">+54, 阿根廷</string>
+    <string name="ct_australia">+61, 澳洲</string>
+    <string name="ct_austria">+43, 奧地利</string>
+    <string name="ct_azerbaijan">+994, 阿塞拜彊</string>
+    <string name="ct_bangladesh">+880, 孟加拉</string>
+    <string name="ct_belarus">+375, 白俄羅斯</string>
+    <string name="ct_belgium">+32, 比利時</string>
+    <string name="ct_benin">+229, 貝寧</string>
+    <string name="ct_bolivia">+591, 玻利維亞</string>
+    <string name="ct_brazil">+55, 巴西</string>
+    <string name="ct_bulgaria">+359, 保加利亞</string>
+    <string name="ct_burkina_faso">+226, 布基納法索</string>
+    <string name="ct_burundi">+257, 布隆迪</string>
+    <string name="ct_cambodia">+855, 柬埔寨</string>
+    <string name="ct_cameroon">+237, 喀麥隆</string>
+    <string name="ct_chad">+235, 乍得</string>
+    <string name="ct_chile">+56, 智利</string>
+    <string name="ct_china">+86, 中國</string>
+    <string name="ct_colombia">+57, 哥倫比亞</string>
+    <string name="ct_congo_democratic_republic_of_the">+243, 剛果民主共和國</string>
+    <string name="ct_cote_divoire">+225, 科特迪瓦</string>
+    <string name="ct_cuba">+53, 古巴</string>
+    <string name="ct_czech_republic">+420, 捷克共和國</string>
+    <string name="ct_dominican_republic">+1809, 多明尼加共和國</string>
+    <string name="ct_ecuador">+593, 厄瓜多爾</string>
+    <string name="ct_egypt">+20, 埃及</string>
+    <string name="ct_ethiopia">+251, 埃塞俄比亞</string>
+    <string name="ct_france">+33, 法國</string>
+    <string name="ct_germany">+49, 德國</string>
+    <string name="ct_ghana">+233, 加納</string>
+    <string name="ct_greece">+30, 希臘</string>
+    <string name="ct_guatemala">+502, 危地馬拉</string>
+    <string name="ct_guinea">+224, 畿內亞</string>
+    <string name="ct_haiti">+509, 海地</string>
+    <string name="ct_honduras">+504, 洪都拉斯</string>
+    <string name="ct_hong_kong">+852, 香港</string>
+    <string name="ct_hungary">+36, 匈牙利</string>
+    <string name="ct_india">+91, 印度</string>
+    <string name="ct_indonesia">+62, 印尼</string>
+    <string name="ct_iran">+98, 伊朗</string>
+    <string name="ct_iraq">+964, 伊拉克</string>
+    <string name="ct_israel">+972, 以色列</string>
+    <string name="ct_italy">+39, 意大利</string>
+    <string name="ct_japan">+81, 日本</string>
+    <string name="ct_kazakhstan">+7, 哈薩克斯坦</string>
+    <string name="ct_kenya">+254, 肯亞</string>
+    <string name="ct_korea_north">+850, 北韓</string>
+    <string name="ct_korea_south">+82, 南韓</string>
+    <string name="ct_madagascar">+261, 馬達加斯加</string>
+    <string name="ct_malawi">+265, 馬拉威</string>
+    <string name="ct_malaysia">+60, 馬來西亞</string>
+    <string name="ct_mali">+223, 馬利</string>
+    <string name="ct_mexico">+52, 墨西哥</string>
+    <string name="ct_morocco">+212, 摩洛哥</string>
+    <string name="ct_mozambique">+258, 莫桑比克</string>
+    <string name="ct_nepal">+977, 尼泊爾</string>
+    <string name="ct_netherlands">+31, 荷蘭</string>
+    <string name="ct_niger">+227, 尼日爾</string>
+    <string name="ct_nigeria">+234, 尼日利亞</string>
+    <string name="ct_other">+, 其他</string>
+    <string name="ct_pakistan">+92, 巴基斯坦</string>
+    <string name="ct_peru">+51, 秘魯</string>
+    <string name="ct_philippines">+63, 菲律賓</string>
+    <string name="ct_poland">+48, 波蘭</string>
+    <string name="ct_portugal">+351, 葡萄牙</string>
+    <string name="ct_romania">+40, 羅馬尼亞</string>
+    <string name="ct_russia">+7, 俄羅斯</string>
+    <string name="ct_rwanda">+250, 盧旺達</string>
+    <string name="ct_saudi_arabia">+966, 沙地阿拉伯</string>
+    <string name="ct_senegal">+221, 塞內加爾</string>
+    <string name="ct_serbia">+381, 塞爾維亞</string>
+    <string name="ct_somalia">+252, 索馬里</string>
+    <string name="ct_south_africa">+27, 南非</string>
+    <string name="ct_south_sudan">+211, 南蘇丹</string>
+    <string name="ct_spain">+34, 西班牙</string>
+    <string name="ct_sri_lanka">+94, 斯里蘭卡</string>
+    <string name="ct_sudan">+249, 蘇丹</string>
+    <string name="ct_sweden">+46, 瑞典</string>
+    <string name="ct_switzerland">+41, 瑞士</string>
+    <string name="ct_syria">+963, 敍利亞</string>
+    <string name="ct_taiwan">+886, 台灣</string>
+    <string name="ct_tajikistan">+992, 塔吉克</string>
+    <string name="ct_tanzania">+255, 坦桑尼亞</string>
+    <string name="ct_thailand">+66, 泰國</string>
+    <string name="ct_tunisia">+216, 突尼西亞</string>
+    <string name="ct_turkey">+90, 土耳其</string>
+    <string name="ct_uganda">+256, 烏干達</string>
+    <string name="ct_ukraine">+380, 烏克蘭</string>
+    <string name="ct_united_kingdom">+44, 英國</string>
+    <string name="ct_united_states">+1, 美國及加拿大</string>
+    <string name="ct_uzbekistan">+998, 烏茲別克</string>
+    <string name="ct_venezuela">+58, 委內瑞拉</string>
+    <string name="ct_vietnam">+84, 越南</string>
+    <string name="ct_yemen">+967, 也門</string>
+    <string name="ct_zambia">+260, 贊比亞</string>
+    <string name="ct_zimbabwe">+263, 津巴布韋</string>
+    <!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/values-zh-rHK/strings.xml -->
+    <eat-comment/>
+    <string name="default_total_title" note="Total text on Total Label">總計</string>
+    <string name="invalid_login_information">無效的登入資訊。請重試。</string>
+    <string name="login_failed">登入失敗。前往 www.paypal.com 解決此問題。</string>
+    <string name="next_button" note="accessibility hint">下一步</string>
+    <string name="receipt_icon_description" note="accessibility hint">收據圖示</string>
+    <string name="sdk_OK">確定</string>
+    <string name="sdk_actvy_device_connect_msg_update_reader_mandatory">已連接的讀卡器現有新的軟件更新可用，必須完成此步驟，才能夠接受信用卡付款。開始前請透過 Wi-Fi 連接流動裝置，並插上讀卡器電源。</string>
+    <string name="sdk_actvy_device_connect_msg_update_reader_optional">現有新的選用更新可以安裝。安裝時間視乎網絡速度而定，更新期間你將無法處理交易。</string>
+    <string name="sdk_actvy_device_connect_title_update_reader">更新讀卡器</string>
+    <string name="sdk_actvy_device_connect_update_reader_button_later">稍後</string>
+    <string name="sdk_actvy_device_connect_update_reader_button_now">馬上</string>
+    <string name="sdk_actvy_receipt_email_hint">電郵地址</string>
+    <string name="sdk_actvy_receipt_msg_ask_customer">你需要收據嗎？</string>
+    <string name="sdk_actvy_receipt_msg_invalid_email" note="Invalid email address description">請輸入有效的電郵地址</string>
+    <string name="sdk_actvy_receipt_option_email">電子郵件</string>
+    <string name="sdk_actvy_receipt_option_no_receipt">不要收據</string>
+    <string name="sdk_actvy_receipt_option_print">列印</string>
+    <string name="sdk_actvy_receipt_option_text">短訊</string>
+    <string name="sdk_actvy_receipt_text_hint">電話號碼</string>
+    <string name="sdk_actvy_receipt_title_email">電子郵件收據</string>
+    <string name="sdk_actvy_receipt_title_payment_complete">付款完成</string>
+    <string name="sdk_actvy_receipt_title_payment_declined">已拒絕</string>
+    <string name="sdk_actvy_receipt_title_payment_failed">付款失敗</string>
+    <string name="sdk_actvy_receipt_title_refund_failure">已取消退款</string>
+    <string name="sdk_actvy_receipt_title_refund_success">完成退款</string>
+    <string name="sdk_actvy_receipt_title_send">發送</string>
+    <string name="sdk_actvy_receipt_title_text">文字收據</string>
+    <string name="sdk_actvy_receipt_title_transaction_cancelled">交易已取消</string>
+    <string name="sdk_actvy_receipt_trxn_cancelled_msg_ask_customer">未對你的信用卡收費。\n需要收據嗎？</string>
+    <string name="sdk_actvy_signature_cancel">取消</string>
+    <string name="sdk_actvy_signature_cancel_transaction" note="">取消</string>
+    <string name="sdk_actvy_signature_cancel_transaction_message" note="">要取消此交易嗎？</string>
+    <string name="sdk_actvy_signature_cancel_transaction_notallowed" note="">結帳</string>
+    <string name="sdk_actvy_signature_cancel_transaction_notallowed_message" note="">請輕觸「完成」以完成此次購物。（如果你需要變更訂單，你可以要求退款。）</string>
+    <string name="sdk_actvy_signature_charge_details">已向 %2$s 收取 %1$s *%3$s</string>
+    <string name="sdk_actvy_signature_done">完成</string>
+    <string name="sdk_actvy_signature_msg">我同意按照發卡方協議的規定支付上述金額。</string>
+    <string name="sdk_actvy_signature_sign_here">在此簽名</string>
+    <string name="sdk_actvy_sw_upd_msg_cancel">請勿在更新程序期間關閉應用程式或讀卡器，否則可能需要對讀卡器執行硬件重設。</string>
+    <string name="sdk_actvy_sw_upd_msg_do_not_quit">完成更新前，請勿退出應用程式或按下讀卡器上的任何鍵。</string>
+    <string name="sdk_actvy_sw_upd_msg_downloading">正在下載第 $1d 個檔案（共 $2d 個）</string>
+    <string name="sdk_actvy_sw_upd_msg_failure">抱歉，更新無法完成。</string>
+    <string name="sdk_actvy_sw_upd_msg_low_battery">已連接的讀卡器電量極低。請為讀卡器充電，然後再試一次。</string>
+    <string name="sdk_actvy_sw_upd_msg_start">已連接的讀卡器現有新的軟件更新可以安裝，必須完成此步驟，才能夠接受信用卡付款。開始前請透過 Wi-Fi 連接流動裝置，並插上讀卡器電源</string>
+    <string name="sdk_actvy_sw_upd_msg_step_in_progress">步驟 $1d（共 $2d 個）</string>
+    <string name="sdk_actvy_sw_upd_msg_successful">現在可以接收信用卡付款了。</string>
+    <string name="sdk_actvy_sw_upd_title_failure">軟件更新失敗</string>
+    <string name="sdk_actvy_sw_upd_title_initializing">正在初始化終端機</string>
+    <string name="sdk_actvy_sw_upd_title_install_not_now">現在不要</string>
+    <string name="sdk_actvy_sw_upd_title_install_now">立即安裝</string>
+    <string name="sdk_actvy_sw_upd_title_installing">安裝更新</string>
+    <string name="sdk_actvy_sw_upd_title_preparing">正在準備更新</string>
+    <string name="sdk_actvy_sw_upd_title_rebooting">正在重新啟動讀卡器</string>
+    <string name="sdk_actvy_sw_upd_title_start">更新你的軟件</string>
+    <string name="sdk_actvy_sw_upd_title_stop">停止</string>
+    <string name="sdk_actvy_sw_upd_title_successful">更新成功</string>
+    <string name="sdk_actvy_sw_upd_title_update">軟件更新</string>
+    <string name="sdk_alert_dialog_refund_fail_title">無法退款</string>
+    <string name="sdk_alert_dialog_refund_failure_title">退款失敗</string>
+    <string name="sdk_alert_dialog_refund_option_with_card">有卡退款</string>
+    <string name="sdk_alert_dialog_refund_option_with_out_card">無卡退款</string>
+    <string name="sdk_alert_dialog_refund_options_title">選擇退款類型</string>
+    <string name="sdk_alert_dialog_refund_success_title">退款成功</string>
+    <string name="sdk_app_name">PayPal Here SDK</string>
+    <string name="sdk_back_dated_invoice" note="Error message for when a user\&apos;s phone is set to a date-time in the past - a situation that causes an invoicing API error">你手機的日期和時間不正確，因此無法處理此訂單。請更正手機的時間和日期設定，然後再處理訂單。</string>
+    <string name="sdk_cancel">取消</string>
+    <string name="sdk_decryption_failure">讀取信用卡資料時發生問題，請重試。</string>
+    <string name="sdk_disabled_emv_terminal">讀卡器已停用，請致電 %1$s 聯絡客戶服務中心。</string>
+    <string name="sdk_disabled_location_descr">為了保障消費者與商家的安全，此應用程式要求你透露你所在的地點。\n\n請在裝置設定中啟用位置服務。</string>
+    <string name="sdk_disabled_location_title">PayPal 需取得你的位置</string>
+    <string name="sdk_dlg_fallback_insert_card_msg">發卡方要求你插入信用卡。</string>
+    <string name="sdk_dlg_fallback_insert_card_title">插入信用卡</string>
+    <string name="sdk_dlg_msg_amount_too_high" note="">信用卡付款的最高金額為：%1$s。請輸入另一個金額，或選擇另一種付款方式。</string>
+    <string name="sdk_dlg_msg_amount_too_low" note="">信用卡付款的最低金額為：%1$s。請輸入另一個金額，或選擇另一種付款方式。</string>
+    <string name="sdk_dlg_msg_card_blocked">很抱歉，此信用卡已被封鎖，請取出信用卡並聯絡發卡方以了解詳情。</string>
+    <string name="sdk_dlg_msg_card_fallback_swipe">請在讀卡器頂部刷卡。</string>
+    <string name="sdk_dlg_msg_card_incorrect_pin">PIN 碼不正確，請重試。</string>
+    <string name="sdk_dlg_msg_card_incorrect_pin_final">若重新輸入的 PIN 碼不正確，信用卡將被封鎖。請再試一次，或取出信用卡以取消交易。</string>
+    <string name="sdk_dlg_msg_card_invalid">請重試。將信用卡插入讀卡器，晶片先入，並確保插穩到底。</string>
+    <string name="sdk_dlg_msg_card_issuer_not_accepted" note="">交易無法順利完成，請告知客戶改用其他付款方式。</string>
+    <string name="sdk_dlg_msg_card_remove">請取出信用卡。</string>
+    <string name="sdk_dlg_msg_card_remove_declined">請取出信用卡並聯絡發卡方以了解詳情。</string>
+    <string name="sdk_dlg_msg_card_remove_failure">請取出信用卡並聯絡發卡方</string>
+    <string name="sdk_dlg_msg_card_remove_try_swiping">讀取信用卡時發生問題，請重新刷卡。</string>
+    <string name="sdk_dlg_msg_card_swipe_not_allowed">請插入卡</string>
+    <string name="sdk_dlg_msg_card_use_another">請改用其他信用卡</string>
+    <string name="sdk_dlg_msg_configuring_device">正在設定讀卡器...</string>
+    <string name="sdk_dlg_msg_connecting_device">正在連接讀卡器...</string>
+    <string name="sdk_dlg_msg_contactless_insert_swipe">請插入信用卡或刷卡</string>
+    <string name="sdk_dlg_msg_contactless_try_another_card">請插入信用卡或刷卡，或改用其他信用卡。</string>
+    <string name="sdk_dlg_msg_detecting_device">正在偵測讀卡器...</string>
+    <string name="sdk_dlg_msg_disabled_reader" note="">讀卡器已停用，請致電聯絡客戶服務中心</string>
+    <string name="sdk_dlg_msg_do_not_remove">請勿取出信用卡。</string>
+    <string name="sdk_dlg_msg_fallback_to_contact_msg">想插入信用卡再試一次嗎？</string>
+    <string name="sdk_dlg_msg_fallback_to_contact_title">已拒絕感應式交易</string>
+    <string name="sdk_dlg_msg_low_battery">必須對讀卡器充電，然後才能繼續處理信用卡付款。\n\n請取出信用卡以繼續操作。\n</string>
+    <string name="sdk_dlg_msg_no_paired_devices">未有配對任何 PayPal 裝置。\n\n請前往「裝置」->「藍牙」，然後與 PayPal EMV 裝置配對</string>
+    <string name="sdk_dlg_msg_receipt_error">系統錯誤。請稍後再試。</string>
+    <string name="sdk_dlg_msg_receipt_sending">正在發送收據...</string>
+    <string name="sdk_dlg_msg_refund_failure">請取出信用卡</string>
+    <string name="sdk_dlg_msg_refund_failure_invalid_card">信用卡與用於交易的信用卡不相符。請取出信用卡。</string>
+    <string name="sdk_dlg_msg_refund_failure_terminal">處理退款時發生錯誤。請稍後再試。</string>
+    <string name="sdk_dlg_msg_refund_incorrect_card">如要處理此筆退款，請使用發出原付款的同一張信用卡。</string>
+    <string name="sdk_dlg_msg_refund_processing">請勿取出信用卡。</string>
+    <string name="sdk_dlg_msg_refund_processing_fallback">正在處理退款…</string>
+    <string name="sdk_dlg_msg_refund_success">請取出信用卡</string>
+    <string name="sdk_dlg_msg_sw_upd_download_complete">已完成下載目前檔案...</string>
+    <string name="sdk_dlg_msg_sw_upd_download_in_progress">下載進行中...</string>
+    <string name="sdk_dlg_msg_sw_upd_fetching_keys">正在擷取終端機鑰匙...</string>
+    <string name="sdk_dlg_msg_sw_upd_initiating">正在啟動軟件更新...</string>
+    <string name="sdk_dlg_msg_sw_upd_install_in_progress">安裝進行中...</string>
+    <string name="sdk_dlg_msg_sw_upd_key_injection">正在將鑰匙注入終端機...</string>
+    <string name="sdk_dlg_msg_sw_upd_recommended">強烈建議你更新 EMV 裝置上的軟件。\\n\無論更新與否，你仍可如常收款，但我們強烈建議你進行更新</string>
+    <string name="sdk_dlg_msg_sw_upd_required">EMV 裝置上的軟件需要進行更新，\\n\否則此裝置便無法用作收款。</string>
+    <string name="sdk_dlg_msg_sw_upd_restarting_terminal">正在重新啟動終端機...</string>
+    <string name="sdk_dlg_msg_sw_upd_update_in_progress">軟件更新進行中...</string>
+    <string name="sdk_dlg_msg_trxn_cancelling">正在取消...</string>
+    <string name="sdk_dlg_msg_trxn_confirm_amount">檢查並確認金額</string>
+    <string name="sdk_dlg_msg_trxn_processing_fallback">處理中...</string>
+    <string name="sdk_dlg_title_amount_too_high" note="">金額過高</string>
+    <string name="sdk_dlg_title_amount_too_low" note="">金額過低</string>
+    <string name="sdk_dlg_title_card_blocked">信用卡被封鎖</string>
+    <string name="sdk_dlg_title_card_broken_chip">無法讀取信用卡</string>
+    <string name="sdk_dlg_title_card_enter_pin">請在讀卡器鍵盤上輸入 PIN 碼。</string>
+    <string name="sdk_dlg_title_card_incorrect_pin">PIN 碼不正確</string>
+    <string name="sdk_dlg_title_card_insert">請插入卡</string>
+    <string name="sdk_dlg_title_card_invalid">信用卡無效</string>
+    <string name="sdk_dlg_title_card_pin_verified">PIN 碼確認</string>
+    <string name="sdk_dlg_title_card_swipe_not_allowed">已偵測到晶片</string>
+    <string name="sdk_dlg_title_card_tap_insert">請點選、插入信用卡或刷卡</string>
+    <string name="sdk_dlg_title_card_waiting_for_swipe">請刷卡</string>
+    <string name="sdk_dlg_title_connecting_device">正在連接至 </string>
+    <string name="sdk_dlg_title_disabled_reader" note="">讀卡器已停用</string>
+    <string name="sdk_dlg_title_low_battery">電池電量不足</string>
+    <string name="sdk_dlg_title_paired_devices">連接至</string>
+    <string name="sdk_dlg_title_reader_not_connected_msg_payment">請連接讀卡器以處理此筆付款</string>
+    <string name="sdk_dlg_title_reader_not_connected_msg_refund">請連接讀卡器以處理此筆退款</string>
+    <string name="sdk_dlg_title_reader_not_connected_title">尚未連接讀卡器</string>
+    <string name="sdk_dlg_title_receipt_sending">發送收據</string>
+    <string name="sdk_dlg_title_refund_confirm_amount">退款 %s</string>
+    <string name="sdk_dlg_title_refund_failure">退款失敗</string>
+    <string name="sdk_dlg_title_refund_failure_invalid_card">無法退款</string>
+    <string name="sdk_dlg_title_refund_incorrect_card">不正確的信用卡</string>
+    <string name="sdk_dlg_title_refund_initiating">發出退款</string>
+    <string name="sdk_dlg_title_refund_option_with_card">有卡退款</string>
+    <string name="sdk_dlg_title_refund_option_without_card">無卡退款</string>
+    <string name="sdk_dlg_title_refund_options">選擇退款類型</string>
+    <string name="sdk_dlg_title_refund_processing">正在處理退款</string>
+    <string name="sdk_dlg_title_refund_success">已退款 %1$s</string>
+    <string name="sdk_dlg_title_sw_upd_recommended">建議進行軟件更新</string>
+    <string name="sdk_dlg_title_sw_upd_required">必須更新軟件</string>
+    <string name="sdk_dlg_title_sw_upd_updating">正在更新軟件</string>
+    <string name="sdk_dlg_title_trxn_choose_from_multi_app">請選擇應用程式</string>
+    <string name="sdk_dlg_title_trxn_completing">正在完成付款...</string>
+    <string name="sdk_dlg_title_trxn_confirm_amount">付款 %s</string>
+    <string name="sdk_dlg_title_trxn_failure">已拒絕</string>
+    <string name="sdk_dlg_title_trxn_initiating">發出付款</string>
+    <string name="sdk_dlg_title_trxn_processing">處理中...</string>
+    <string name="sdk_dlg_title_trxn_processing_with_chip">請勿取出信用卡\n處理中...</string>
+    <string name="sdk_dlg_title_trxn_successful">付款成功</string>
+    <string name="sdk_dlg_title_trxn_successful_amount">已支付 %1$s</string>
+    <string name="sdk_error">錯誤</string>
+    <string name="sdk_finalize_transaction_failure">無法成功完成交易。請嘗試替代付款方式。</string>
+    <string name="sdk_generic_error">系統錯誤。請稍後再試。</string>
+    <string name="sdk_invoice_number_already_exists">商家已有此帳單號碼的帳單：%1$s</string>
+    <string name="sdk_merchant_account_limited">商家帳戶使用權限受到限制</string>
+    <string name="sdk_mtp_failure_message">很抱歉，此交易無法完成。請重試或取消此帳單。</string>
+    <string name="sdk_network_not_reachable">你尚未連線到互聯網；必須連線才能使用 PayPal Here。</string>
+    <string name="sdk_no" note="">無</string>
+    <string name="sdk_no_network_available">你尚未連線到互聯網；必須連線才能使用 PayPal Here。</string>
+    <string name="sdk_not_now">稍後再說</string>
+    <string name="sdk_payment_processing_failure">很抱歉，此交易無法完成。請重試或取消此帳單。</string>
+    <string name="sdk_reader_amount_entered_too_high">信用卡最高金額是 \n%s</string>
+    <string name="sdk_reader_amount_entered_too_low">信用卡最低金額是 \n%s</string>
+    <string name="sdk_reader_amount_not_entered">於應用程式中\n輸入金額。</string>
+    <string name="sdk_reader_cancelling_payment">正在取消…</string>
+    <string name="sdk_reader_card_issuer_not_accepted">無法信用卡識別。\n請嘗試使用另一種付款方式。</string>
+    <string name="sdk_reader_completing_payment">正在完成付款...</string>
+    <string name="sdk_reader_completing_payment_with_card">正在完成付款...\n請勿取出信用卡。</string>
+    <string name="sdk_reader_confirm_amount">%s\n確認金額</string>
+    <string name="sdk_reader_contactless_insert_swipe">無法讀取信用卡\n插入信用卡或刷卡</string>
+    <string name="sdk_reader_contactless_timeout">%s\n交易已逾時</string>
+    <string name="sdk_reader_contactless_try_another_card">無法讀取信用卡\n插入信用卡或刷卡，或嘗試使用另一張信用卡</string>
+    <string name="sdk_reader_fallback_card_insert">發卡方要求\n你插入\n信用卡。</string>
+    <string name="sdk_reader_idle">準備接受\n付款。</string>
+    <string name="sdk_reader_idle_with_pending_sw_update">必須更新\n軟件。</string>
+    <string name="sdk_reader_payment_cancelled">%s\n交易已取消</string>
+    <string name="sdk_reader_payment_cancelled_with_card">%s\n交易已取消\n請取出信用卡。</string>
+    <string name="sdk_reader_payment_complete">已支付 %s。\n多謝！</string>
+    <string name="sdk_reader_payment_declined">%s\n已拒絕</string>
+    <string name="sdk_reader_payment_declined_receipt_message">請與\n發卡方聯絡。</string>
+    <string name="sdk_reader_payment_declined_with_card">%s\n已拒絕\n請取出信用卡。</string>
+    <string name="sdk_reader_payment_failed">%s\n付款失敗。</string>
+    <string name="sdk_reader_payment_pin_ok">請勿取出信用卡\n處理中...\nPIN 碼正確</string>
+    <string name="sdk_reader_payment_remove_card">已支付 %s。\n請取出信用卡。</string>
+    <string name="sdk_reader_processing_payment">處理中...</string>
+    <string name="sdk_reader_processing_payment_with_amount">%s\n處理中...</string>
+    <string name="sdk_reader_processing_payment_with_amount_and_card">%s\n請勿取出信用卡\n處理中...</string>
+    <string name="sdk_reader_processing_payment_with_card">請勿取出信用卡\n處理中...</string>
+    <string name="sdk_reader_refund_cancelled">%s\n退款已取消。</string>
+    <string name="sdk_reader_refund_complete">已退款 %s。\n多謝！</string>
+    <string name="sdk_reader_refund_failed">%s\n退款失敗。</string>
+    <string name="sdk_reader_refund_remove_card">已退款 %s。\n請取出信用卡。</string>
+    <string name="sdk_reader_retry_with_contact_card">想插入信用卡或\n刷卡再試一次嗎？</string>
+    <string name="sdk_reader_sw_update_downloading">正在下載更新。\n請稍候...</string>
+    <string name="sdk_reader_sw_update_failed">軟件更新\n失敗。</string>
+    <string name="sdk_reader_sw_update_initializing">正在啟動\n讀卡器...</string>
+    <string name="sdk_reader_sw_update_installing">正在安裝更新。\n請稍候...</string>
+    <string name="sdk_reader_sw_update_preparing">正在準備已退款更新...</string>
+    <string name="sdk_reader_sw_update_restarting">正在重新\n啟動讀卡器...</string>
+    <string name="sdk_reader_swipe_card">請刷卡。</string>
+    <string name="sdk_reader_swipe_not_allowed">不可刷卡\n請插入信用卡</string>
+    <string name="sdk_reader_waiting_for_signature">正在等候\n簽名...</string>
+    <string name="sdk_reader_wrong_online_pin">PIN 碼不正確\n請再試一次</string>
+    <string name="sdk_try_again">請重試</string>
+    <string name="sdk_try_again_no_netowrk_message">抱歉，因未連線而無法完成交易。請重試或取消此帳單。</string>
+    <string name="sdk_unsupported_card_type">PayPal Here 目前不支援此信用卡，請使用其他類型的信用卡。</string>
+    <string name="sdk_yes" note="">是</string>
+    <string name="send_receipt_email_change_description" note="accessibility hint">變更電郵</string>
+    <string name="send_receipt_phone_change_description" note="accessibility hint">變更號碼</string>
+    <string name="sms_international_code_msg" note="">號碼必須包括國家或地區代碼。</string>
+</resources>

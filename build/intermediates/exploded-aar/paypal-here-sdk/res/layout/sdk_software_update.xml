@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/sdk_default_bg"
+    android:orientation="vertical"
+    android:textColor="@color/sdk_black"
+    android:paddingTop="@dimen/sdk_sw_update_top_padding"
+    android:keepScreenOn="true">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/sdk_sw_update_left_padding"
+            android:paddingRight="@dimen/sdk_sw_update_right_padding">
+
+            <TextView
+                android:id="@+id/id_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/sdk_actvy_sw_upd_title_preparing"
+                android:textSize="@dimen/sdk_sw_update_title_text_size"
+                android:textColor="@color/sdk_black"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/id_steps"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textSize="@dimen/sdk_sw_update_steps_text_size"
+                android:textColor="@color/sdk_black"
+                android:layout_marginBottom="@dimen/sdk_sw_update_steps_margin_bottom" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:padding="@dimen/medium"
+                android:text="@string/sdk_actvy_sw_upd_msg_do_not_quit"
+                android:textSize="@dimen/sdk_sw_update_steps_text_size"
+                android:minHeight="70dp"
+                android:gravity="center"
+                android:textColor="@color/sdk_black" />
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ProgressBar
+                android:id="@+id/progress_bar_custom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="20dp"
+                android:maxHeight="20dp"
+                android:indeterminate="true"
+                android:progressDrawable="@drawable/sdk_progress_bar_horizontal"
+                android:indeterminateDrawable="@drawable/sdk_progress_bar_horizontal"
+                android:layout_gravity="center" />
+
+            <ProgressBar
+                android:id="@+id/progress_bar_default"
+                style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="@dimen/sdk_sw_update_height_minimum"
+                android:layout_gravity="center"
+                android:visibility="invisible"/>
+
+        </FrameLayout>
+    </LinearLayout>
+</RelativeLayout><!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/layout/sdk_software_update.xml -->

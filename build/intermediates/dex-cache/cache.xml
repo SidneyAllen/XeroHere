@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3e06bea124c1ff23cfe314dbc79f73c6eafcb9ce">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_13d68c39a9f3375a70d79ea328d3c57088052a54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_cd88708a7fd04e273779d57b963d2cd4e4020a64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b7a78990c10481f43cb4909f535ef4f11e60f1ab">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-beta-1.1.3_2dd53d8e0a91f3407f0d130c60492799531c7746/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e99413cdc93bd7b001d312a4a33d25ac21042f69">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-answers-1.3.2_36db2a3637da2d299b2661cc054e4b9121e789a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.6/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fc82596d7f7683c8b3a7e5715a2ed5295c586887">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.6_3ccf8fd5836d1945bd07716c4944bee236448248/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/paypal-here-sdk/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4dbb00c0e2c94ff65d266ab1422ed03a5456810d">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-paypal-here-sdk_a20dddd9ff059790aca26f0dca926dcd0f709519/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/.gradle/caches/modules-2/files-2.1/com.github.scribejava/scribejava-core/2.8.1/8d0ab16ddeac60c3ffb2c8762a8f13a6bbdf3113/scribejava-core-2.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8d0ab16ddeac60c3ffb2c8762a8f13a6bbdf3113">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/scribejava-core-2.8.1_266821d0bf9310bb3e67f42e51347a052747776c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.1.0_9058a6b795be5f5f99fa520412a9d008419c5127/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/paypal-here-sdk/jars/libs/android-risk-component-intf-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7008d688165189f02b2102c79a8513917affaa5b">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/android-risk-component-intf-1.0.2_1557aab7454f868957ed16bbce16c026fcebf4b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.1.0_7f14e4368e5463a900ca174f129d45b5af541f60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/paypal-here-sdk/jars/libs/jmdns-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7ba2dcf7effb5ca9b00736b2a066fff3dd01d432">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/jmdns-3.4.1_ccc676312c3ebd0befb8a3a683a103d5b377a816/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_2261b37b2166432558b1c101f3fd493aa3040bcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/paypal-here-sdk/jars/libs/ksoap2-android-assembly-2.6.5-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4e18c032c01420871b8734937029be5543107ae3">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/ksoap2-android-assembly-2.6.5-jar-with-dependencies_a089d40991fcc76f988870dd5671311efeec514f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="004ae5703b636133b54d41c1336bc600a530ab01">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fa720e59171b5599912fc0f20e8fb058f2bfbb6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/paypal-here-sdk/jars/libs/swiperapi-android-4.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fff843c8afe3bd1c27c37c188eb5ec57cd6e8c5b">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/swiperapi-android-4.3.9_3bf22a144c1591b1fe3f0866d5d43fe0695e889e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/paypal-here-sdk/jars/libs/android-risk-component-3.1.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="32423e6e03bc5e508e54411c078ed3f826b8d159">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/android-risk-component-3.1.9_ba68118247da52cb0ea99d2a1ed5133b55bc0493/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.1.0_9fd50291d588d68c8857bc64fac914d6a88fee19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/paypal-here-sdk/jars/libs/magtek-scra_v111_01.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ce6dc9b9ff3af949f5bad5aa39d12f61617607ff">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/magtek-scra_v111_01_304e8d5b800f5ae1ac61c9393a8ec066154a7983/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/paypal-here-sdk/jars/libs/woosimprinter_bt-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="89d570f5205272842e8f6e9de429beb91fb5a2ab">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/woosimprinter_bt-1.0_331cfa7dd4b1e03143cc9406b81932bbb95bfd0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/paypal-here-sdk/jars/libs/paypal-retail-emv-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4d28587a724e762c95593bd54efe4291e7b755e5">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/paypal-retail-emv-1.0_26205cca01367d7766ef6f8c017e4541053b5838/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.2_e7f4039050049ea6b454173ca983079ef5a1cf9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/paypal-here-sdk/jars/libs/statemap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="cc7c0aa16526e52cb624dbbe4a8c1f6be7e0198f">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/statemap_4669787e3ab816875007613ae3788b3e7cfef9f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_5420aa56e648782a4d4ed8dde04fbcd3eb0b0110/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/paypal-here-sdk/jars/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="446679680f13f1605f512deb1f4c984648bc403f">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/volley_851fc003424978c55a26dee1b6cc85d26dfa4b74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.5.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0c7f9fb9a729166c69fa585e01be2fe8fab4f45c">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-2.5.2_9f818e9dd0535544ec76c4ae4c179f31fb156f2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.0_ed09d4d39739b4084bd4d5cbd14dfdfc7fbcf10c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d18ba1d0eff55680fdf9a35f70a6091e4bc1adcb">
+        <dex dex="/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-core-2.3.5_ee330c70dfa283ee3fb010bb33166d63a5fe4281/classes.dex" />
+    </item>
+
+</items>

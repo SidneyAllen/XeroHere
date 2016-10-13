@@ -1,0 +1,862 @@
+[
+    {
+        "outputFile": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 107,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 107,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 107,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 122,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endColumn": 104,
+                    "endOffset": 544
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 104,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 549,
+                    "endColumn": 114,
+                    "endOffset": 659
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 500,
+                        "endColumn": 114,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 664,
+                    "endColumn": 83,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endColumn": 83,
+                        "endOffset": 694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 748,
+                    "endColumn": 111,
+                    "endOffset": 855
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 699,
+                        "endColumn": 111,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 860,
+                    "endColumn": 129,
+                    "endOffset": 985
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 129,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 109,
+                    "endOffset": 1095
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 941,
+                        "endColumn": 109,
+                        "endOffset": 1046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1100,
+                    "endColumn": 110,
+                    "endOffset": 1206
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1051,
+                        "endColumn": 110,
+                        "endOffset": 1157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1211,
+                    "endColumn": 99,
+                    "endOffset": 1306
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1162,
+                        "endColumn": 99,
+                        "endOffset": 1257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1311,
+                    "endColumn": 110,
+                    "endOffset": 1417
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1262,
+                        "endColumn": 110,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1422,
+                    "endColumn": 107,
+                    "endOffset": 1525
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endColumn": 107,
+                        "endOffset": 1476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1530,
+                    "endColumn": 118,
+                    "endOffset": 1644
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1481,
+                        "endColumn": 118,
+                        "endOffset": 1595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1649,
+                    "endColumn": 133,
+                    "endOffset": 1778
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/values-hu/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1600,
+                        "endColumn": 133,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1783,
+                    "endColumn": 206,
+                    "endOffset": 1985
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 210,
+                        "endOffset": 694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1990,
+                    "endColumn": 205,
+                    "endOffset": 2191
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2739,
+                        "endColumn": 209,
+                        "endOffset": 2944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2196,
+                    "endColumn": 117,
+                    "endOffset": 2309
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2401,
+                        "endColumn": 117,
+                        "endOffset": 2514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2314,
+                    "endColumn": 297,
+                    "endOffset": 2607
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4720,
+                        "endColumn": 301,
+                        "endOffset": 5017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2612,
+                    "endColumn": 130,
+                    "endOffset": 2738
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2140,
+                        "endColumn": 130,
+                        "endOffset": 2266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2743,
+                    "endColumn": 217,
+                    "endOffset": 2956
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1918,
+                        "endColumn": 221,
+                        "endOffset": 2135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2961,
+                    "endColumn": 135,
+                    "endOffset": 3092
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1782,
+                        "endColumn": 135,
+                        "endOffset": 1913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3097,
+                    "endColumn": 169,
+                    "endOffset": 3262
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 869,
+                        "endColumn": 173,
+                        "endOffset": 1038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3267,
+                    "endColumn": 131,
+                    "endOffset": 3394
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1650,
+                        "endColumn": 131,
+                        "endOffset": 1777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3399,
+                    "endColumn": 234,
+                    "endOffset": 3629
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1172,
+                        "endColumn": 238,
+                        "endOffset": 1406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3634,
+                    "endColumn": 234,
+                    "endOffset": 3864
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1411,
+                        "endColumn": 238,
+                        "endOffset": 1645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3869,
+                    "endColumn": 128,
+                    "endOffset": 3993
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1043,
+                        "endColumn": 128,
+                        "endOffset": 1167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3998,
+                    "endColumn": 184,
+                    "endOffset": 4178
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3744,
+                        "endColumn": 184,
+                        "endOffset": 3924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 4183,
+                    "endColumn": 124,
+                    "endOffset": 4303
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3619,
+                        "endColumn": 124,
+                        "endOffset": 3739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4308,
+                    "endColumn": 169,
+                    "endOffset": 4473
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 699,
+                        "endColumn": 169,
+                        "endOffset": 864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4478,
+                    "endColumn": 184,
+                    "endOffset": 4658
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3434,
+                        "endColumn": 184,
+                        "endOffset": 3614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4663,
+                    "endColumn": 119,
+                    "endOffset": 4778
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3314,
+                        "endColumn": 119,
+                        "endOffset": 3429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4783,
+                    "endColumn": 177,
+                    "endOffset": 4956
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 177,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4961,
+                    "endColumn": 139,
+                    "endOffset": 5096
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 139,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 5101,
+                    "endColumn": 187,
+                    "endOffset": 5284
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 5154,
+                        "endColumn": 187,
+                        "endOffset": 5337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 5289,
+                    "endColumn": 131,
+                    "endOffset": 5416
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 5022,
+                        "endColumn": 131,
+                        "endOffset": 5149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 5421,
+                    "endColumn": 148,
+                    "endOffset": 5565
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3929,
+                        "endColumn": 148,
+                        "endOffset": 4073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 5570,
+                    "endColumn": 296,
+                    "endOffset": 5862
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4209,
+                        "endColumn": 300,
+                        "endOffset": 4505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5867,
+                    "endColumn": 130,
+                    "endOffset": 5993
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 4078,
+                        "endColumn": 130,
+                        "endOffset": 4204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5998,
+                    "endColumn": 109,
+                    "endOffset": 6103
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4510,
+                        "endColumn": 109,
+                        "endOffset": 4615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 6108,
+                    "endColumn": 215,
+                    "endOffset": 6319
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2519,
+                        "endColumn": 219,
+                        "endOffset": 2734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 6324,
+                    "endColumn": 129,
+                    "endOffset": 6449
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2271,
+                        "endColumn": 129,
+                        "endOffset": 2396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 6454,
+                    "endColumn": 220,
+                    "endOffset": 6670
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 3089,
+                        "endColumn": 224,
+                        "endOffset": 3309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 6675,
+                    "endColumn": 139,
+                    "endOffset": 6810
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2949,
+                        "endColumn": 139,
+                        "endOffset": 3084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 6815,
+                    "endColumn": 99,
+                    "endOffset": 6910
+                },
+                "from": {
+                    "file": "/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4620,
+                        "endColumn": 99,
+                        "endOffset": 4715
+                    }
+                }
+            }
+        ]
+    }
+]

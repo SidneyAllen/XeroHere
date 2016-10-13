@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/values-en-rGB/strings.xml -->
+    <eat-comment/>
+    <string name="back_button" note="accessibility hint">Back</string>
+    <string name="checkmark" note="accessibility hint">Check Mark</string>
+    <!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/values-en-rGB/sms_country_data.xml -->
+    <eat-comment/>
+    <string name="ct_afghanistan">+93, Afghanistan</string>
+    <string name="ct_algeria">+213, Algeria</string>
+    <string name="ct_angola">+244, Angola</string>
+    <string name="ct_argentina">+54, Argentina</string>
+    <string name="ct_australia">+61, Australia</string>
+    <string name="ct_austria">+43, Austria</string>
+    <string name="ct_azerbaijan">+994, Azerbaijan</string>
+    <string name="ct_bangladesh">+880, Bangladesh</string>
+    <string name="ct_belarus">+375, Belarus</string>
+    <string name="ct_belgium">+32, Belgium</string>
+    <string name="ct_benin">+229, Benin</string>
+    <string name="ct_bolivia">+591, Bolivia</string>
+    <string name="ct_brazil">+55, Brazil</string>
+    <string name="ct_bulgaria">+359, Bulgaria</string>
+    <string name="ct_burkina_faso">+226, Burkina Faso</string>
+    <string name="ct_burundi">+257, Burundi</string>
+    <string name="ct_cambodia">+855, Cambodia</string>
+    <string name="ct_cameroon">+237, Cameroon</string>
+    <string name="ct_chad">+235, Chad</string>
+    <string name="ct_chile">+56, Chile</string>
+    <string name="ct_china">+86, China</string>
+    <string name="ct_colombia">+57, Colombia</string>
+    <string name="ct_congo_democratic_republic_of_the">+243 ,Congo - Democratic Republic of the</string>
+    <string name="ct_cote_divoire">+225, Cote d\'Ivoire</string>
+    <string name="ct_cuba">+53, Cuba</string>
+    <string name="ct_czech_republic">+420, Czech Republic</string>
+    <string name="ct_dominican_republic">+1809, Dominican Republic</string>
+    <string name="ct_ecuador">+593, Ecuador</string>
+    <string name="ct_egypt">+20, Egypt</string>
+    <string name="ct_ethiopia">+251, Ethiopia</string>
+    <string name="ct_france">+33, France</string>
+    <string name="ct_germany">+49, Germany</string>
+    <string name="ct_ghana">+233, Ghana</string>
+    <string name="ct_greece">+30, Greece</string>
+    <string name="ct_guatemala">+502, Guatemala</string>
+    <string name="ct_guinea">+224, Guinea</string>
+    <string name="ct_haiti">+509, Haiti</string>
+    <string name="ct_honduras">+504, Honduras</string>
+    <string name="ct_hong_kong">+852, Hong Kong</string>
+    <string name="ct_hungary">+36, Hungary</string>
+    <string name="ct_india">+91, India</string>
+    <string name="ct_indonesia">+62, Indonesia</string>
+    <string name="ct_iran">+98, Iran</string>
+    <string name="ct_iraq">+964, Iraq</string>
+    <string name="ct_israel">+972, Israel</string>
+    <string name="ct_italy">+39, Italy</string>
+    <string name="ct_japan">+81, Japan</string>
+    <string name="ct_kazakhstan">+7, Kazakhstan</string>
+    <string name="ct_kenya">+254, Kenya</string>
+    <string name="ct_korea_north">+850, Korea North</string>
+    <string name="ct_korea_south">+82, Korea South</string>
+    <string name="ct_madagascar">+261, Madagascar</string>
+    <string name="ct_malawi">+265, Malawi</string>
+    <string name="ct_malaysia">+60, Malaysia</string>
+    <string name="ct_mali">+223, Mali</string>
+    <string name="ct_mexico">+52, Mexico</string>
+    <string name="ct_morocco">+212, Morocco</string>
+    <string name="ct_mozambique">+258, Mozambique</string>
+    <string name="ct_nepal">+977, Nepal</string>
+    <string name="ct_netherlands">+31, Netherlands</string>
+    <string name="ct_niger">+227, Niger</string>
+    <string name="ct_nigeria">+234, Nigeria</string>
+    <string name="ct_other">+, Other</string>
+    <string name="ct_pakistan">+92, Pakistan</string>
+    <string name="ct_peru">+51, Peru</string>
+    <string name="ct_philippines">+63, Philippines</string>
+    <string name="ct_poland">+48, Poland</string>
+    <string name="ct_portugal">+351, Portugal</string>
+    <string name="ct_romania">+40, Romania</string>
+    <string name="ct_russia">+7, Russia</string>
+    <string name="ct_rwanda">+250, Rwanda</string>
+    <string name="ct_saudi_arabia">+966, Saudi Arabia</string>
+    <string name="ct_senegal">+221, Senegal</string>
+    <string name="ct_serbia">+381, Serbia</string>
+    <string name="ct_somalia">+252, Somalia</string>
+    <string name="ct_south_africa">+27, South Africa</string>
+    <string name="ct_south_sudan">+211, South Sudan</string>
+    <string name="ct_spain">+34, Spain</string>
+    <string name="ct_sri_lanka">+94, Sri Lanka</string>
+    <string name="ct_sudan">+249, Sudan</string>
+    <string name="ct_sweden">+46, Sweden</string>
+    <string name="ct_switzerland">+41, Switzerland</string>
+    <string name="ct_syria">+963, Syria</string>
+    <string name="ct_taiwan">+886, Taiwan</string>
+    <string name="ct_tajikistan">+992, Tajikistan</string>
+    <string name="ct_tanzania">+255, Tanzania</string>
+    <string name="ct_thailand">+66, Thailand</string>
+    <string name="ct_tunisia">+216, Tunisia</string>
+    <string name="ct_turkey">+90, Turkey</string>
+    <string name="ct_uganda">+256, Uganda</string>
+    <string name="ct_ukraine">+380, Ukraine</string>
+    <string name="ct_united_kingdom">+44, United Kingdom</string>
+    <string name="ct_united_states">+1, United States and Canada</string>
+    <string name="ct_uzbekistan">+998, Uzbekistan</string>
+    <string name="ct_venezuela">+58, Venezuela</string>
+    <string name="ct_vietnam">+84, Vietnam</string>
+    <string name="ct_yemen">+967, Yemen</string>
+    <string name="ct_zambia">+260, Zambia</string>
+    <string name="ct_zimbabwe">+263, Zimbabwe</string>
+    <!-- From: file:/Users/schandrashekar/Documents/Workspace/android-here-sdk-release/sdk/res/values-en-rGB/strings.xml -->
+    <eat-comment/>
+    <string name="default_total_title" note="Total text on Total Label">TOTAL</string>
+    <string name="invalid_login_information">Invalid login information. Please try again.</string>
+    <string name="login_failed">Login failed. Go to www.paypal.com to resolve this issue.</string>
+    <string name="next_button" note="accessibility hint">Next</string>
+    <string name="receipt_icon_description" note="accessibility hint">Receipt Icon</string>
+    <string name="sdk_OK">OK</string>
+    <string name="sdk_actvy_device_connect_msg_update_reader_mandatory">A new software update is available for connected Card Reader. This is required to accept card payments. Please connect your mobile device via Wi-Fi and plug the reader in to a power source before you begin.</string>
+    <string name="sdk_actvy_device_connect_msg_update_reader_optional">A new optional software update is available. The install time will vary depending on network speed and during the update process you will not be able to process transactions.</string>
+    <string name="sdk_actvy_device_connect_title_update_reader">Update Your Card Reader</string>
+    <string name="sdk_actvy_device_connect_update_reader_button_later">Later</string>
+    <string name="sdk_actvy_device_connect_update_reader_button_now">Now</string>
+    <string name="sdk_actvy_receipt_email_hint">Email Address</string>
+    <string name="sdk_actvy_receipt_msg_ask_customer">Would you like a receipt?</string>
+    <string name="sdk_actvy_receipt_msg_invalid_email" note="Invalid email address description">Please enter a valid email address</string>
+    <string name="sdk_actvy_receipt_option_email">Email</string>
+    <string name="sdk_actvy_receipt_option_no_receipt">No Receipt</string>
+    <string name="sdk_actvy_receipt_option_print">Print</string>
+    <string name="sdk_actvy_receipt_option_text">Text</string>
+    <string name="sdk_actvy_receipt_text_hint">Phone Number</string>
+    <string name="sdk_actvy_receipt_title_email">EMAIL RECEIPT</string>
+    <string name="sdk_actvy_receipt_title_payment_complete">Payment Complete</string>
+    <string name="sdk_actvy_receipt_title_payment_declined">Declined</string>
+    <string name="sdk_actvy_receipt_title_payment_failed">Payment Failed</string>
+    <string name="sdk_actvy_receipt_title_refund_failure">Refund Cancelled</string>
+    <string name="sdk_actvy_receipt_title_refund_success">Refund Complete</string>
+    <string name="sdk_actvy_receipt_title_send">Send</string>
+    <string name="sdk_actvy_receipt_title_text">TEXT RECEIPT</string>
+    <string name="sdk_actvy_receipt_title_transaction_cancelled">Transaction Cancelled</string>
+    <string name="sdk_actvy_receipt_trxn_cancelled_msg_ask_customer">Your card has not been charged.\nWould you like a receipt?</string>
+    <string name="sdk_actvy_signature_cancel">Cancel</string>
+    <string name="sdk_actvy_signature_cancel_transaction" note="">Cancel</string>
+    <string name="sdk_actvy_signature_cancel_transaction_message" note="">Would you like to cancel this transaction?</string>
+    <string name="sdk_actvy_signature_cancel_transaction_notallowed" note="">Complete Purchase</string>
+    <string name="sdk_actvy_signature_cancel_transaction_notallowed_message" note="">Please tap Done to complete this purchase. (If you need to change your order, you can ask for a refund.)</string>
+    <string name="sdk_actvy_signature_charge_details">%1$s charged to %2$s *%3$s</string>
+    <string name="sdk_actvy_signature_done">Done</string>
+    <string name="sdk_actvy_signature_msg">I agree to pay the above amount according to the card issuer agreement.</string>
+    <string name="sdk_actvy_signature_sign_here">Sign Here</string>
+    <string name="sdk_actvy_sw_upd_msg_cancel">Please do not close the app or turn off the reader during the update process. Doing so may require a hard reset of your reader.</string>
+    <string name="sdk_actvy_sw_upd_msg_do_not_quit">Do not shut down the app or press any keys on the card reader until the update is complete.</string>
+    <string name="sdk_actvy_sw_upd_msg_downloading">Downloading $1d of $2d files</string>
+    <string name="sdk_actvy_sw_upd_msg_failure">We\'re sorry, the update could not be completed.</string>
+    <string name="sdk_actvy_sw_upd_msg_low_battery">Battery level on connected reader is critically low. Please charge the reader and try again.</string>
+    <string name="sdk_actvy_sw_upd_msg_start">A new software update is available for the connected card reader. This is required to accept card payments. Please connect your mobile device via Wi-Fi and plug in the reader to a power source before you begin</string>
+    <string name="sdk_actvy_sw_upd_msg_step_in_progress">Step $1d of $2d</string>
+    <string name="sdk_actvy_sw_upd_msg_successful">You can now accept card payments.</string>
+    <string name="sdk_actvy_sw_upd_title_failure">Software Update Failed</string>
+    <string name="sdk_actvy_sw_upd_title_initializing">Initialising Terminal</string>
+    <string name="sdk_actvy_sw_upd_title_install_not_now">Not Now</string>
+    <string name="sdk_actvy_sw_upd_title_install_now">Install Now</string>
+    <string name="sdk_actvy_sw_upd_title_installing">Installing Update</string>
+    <string name="sdk_actvy_sw_upd_title_preparing">Preparing for Update</string>
+    <string name="sdk_actvy_sw_upd_title_rebooting">Rebooting Card Reader</string>
+    <string name="sdk_actvy_sw_upd_title_start">Update Your Software</string>
+    <string name="sdk_actvy_sw_upd_title_stop">Stop</string>
+    <string name="sdk_actvy_sw_upd_title_successful">Update Successful</string>
+    <string name="sdk_actvy_sw_upd_title_update">Software Update</string>
+    <string name="sdk_alert_dialog_refund_fail_title">Cannot Refund</string>
+    <string name="sdk_alert_dialog_refund_failure_title">Refund Failed</string>
+    <string name="sdk_alert_dialog_refund_option_with_card">Refund with card</string>
+    <string name="sdk_alert_dialog_refund_option_with_out_card">Refund without card</string>
+    <string name="sdk_alert_dialog_refund_options_title">Select refund type</string>
+    <string name="sdk_alert_dialog_refund_success_title">Refund Successful</string>
+    <string name="sdk_app_name">PayPal Here SDK</string>
+    <string name="sdk_back_dated_invoice" note="Error message for when a user\&apos;s phone is set to a date-time in the past - a situation that causes an invoicing API error">This order cannot be processed because your phone\'s date and time appear to be inaccurate. Please correct your phone\'s time and date settings, then process your order.</string>
+    <string name="sdk_cancel">Cancel</string>
+    <string name="sdk_decryption_failure">There was a problem reading the card details. Please try again.</string>
+    <string name="sdk_disabled_emv_terminal">Card reader is disabled, please call Customer Service on %1$s.</string>
+    <string name="sdk_disabled_location_descr">For consumer and merchant security, this application requires you to disclose your location.\n\nPlease enable location services in your device\’s settings.</string>
+    <string name="sdk_disabled_location_title">PayPal Needs Your Location</string>
+    <string name="sdk_dlg_fallback_insert_card_msg">Card issuer requires that you insert the card.</string>
+    <string name="sdk_dlg_fallback_insert_card_title">Insert Card</string>
+    <string name="sdk_dlg_msg_amount_too_high" note="">The maximum amount for card payments is %1$s. Please enter a new amount or choose a different funding source.</string>
+    <string name="sdk_dlg_msg_amount_too_low" note="">The minimum amount for card payments is %1$s. Please enter a new amount or choose a different funding source.</string>
+    <string name="sdk_dlg_msg_card_blocked">Sorry, the card has been blocked. Please remove your card and contact the card issuer to advise.</string>
+    <string name="sdk_dlg_msg_card_fallback_swipe">Swipe the card at the top of the reader.</string>
+    <string name="sdk_dlg_msg_card_incorrect_pin">The PIN is incorrect. Please try again.</string>
+    <string name="sdk_dlg_msg_card_incorrect_pin_final">If the PIN is entered incorrectly again, the card will be blocked. Try again or remove the card to cancel the transaction.</string>
+    <string name="sdk_dlg_msg_card_invalid">Please try again. Firmly insert the card, chip first, into the bottom of the card reader.</string>
+    <string name="sdk_dlg_msg_card_issuer_not_accepted" note="">The transaction cannot complete successfully. Please advise the customer to use an alternative funding source.</string>
+    <string name="sdk_dlg_msg_card_remove">Please remove card. </string>
+    <string name="sdk_dlg_msg_card_remove_declined">Please remove the card and contact the card issuer for more information.</string>
+    <string name="sdk_dlg_msg_card_remove_failure">Please remove card and contact issuer</string>
+    <string name="sdk_dlg_msg_card_remove_try_swiping">There was a problem reading the card. Please try swiping the card.</string>
+    <string name="sdk_dlg_msg_card_swipe_not_allowed">Please insert card.</string>
+    <string name="sdk_dlg_msg_card_use_another">Please use another card</string>
+    <string name="sdk_dlg_msg_configuring_device">Configuring the card reader…</string>
+    <string name="sdk_dlg_msg_connecting_device">Connecting to card reader…</string>
+    <string name="sdk_dlg_msg_contactless_insert_swipe">Please insert or swipe your card</string>
+    <string name="sdk_dlg_msg_contactless_try_another_card">Please insert or swipe your card now, or try a different card.</string>
+    <string name="sdk_dlg_msg_detecting_device">Detecting the card reader…</string>
+    <string name="sdk_dlg_msg_disabled_reader" note="">Card reader is disabled, please call Customer Service</string>
+    <string name="sdk_dlg_msg_do_not_remove">Do not remove card.</string>
+    <string name="sdk_dlg_msg_fallback_to_contact_msg">Do you want to try again by inserting the card?</string>
+    <string name="sdk_dlg_msg_fallback_to_contact_title">Contactless Transaction Declined</string>
+    <string name="sdk_dlg_msg_low_battery">You must recharge your card reader before you can continue to process card payments.\n\nRemove the card to continue.\n</string>
+    <string name="sdk_dlg_msg_no_paired_devices">No PayPal device paired.\n\nPlease go to Settings > Bluetooth to pair with a PayPal EMV device</string>
+    <string name="sdk_dlg_msg_receipt_error">System error. Please try again later</string>
+    <string name="sdk_dlg_msg_receipt_sending">Sending Receipt…</string>
+    <string name="sdk_dlg_msg_refund_failure">Please remove the card</string>
+    <string name="sdk_dlg_msg_refund_failure_invalid_card">Card does not match card used for transaction. Please remove card. </string>
+    <string name="sdk_dlg_msg_refund_failure_terminal">Error while processing refund. Please try again later.</string>
+    <string name="sdk_dlg_msg_refund_incorrect_card">To process this refund, please use the same card used for the original payment.</string>
+    <string name="sdk_dlg_msg_refund_processing">Do not remove card.</string>
+    <string name="sdk_dlg_msg_refund_processing_fallback">Processing refund…</string>
+    <string name="sdk_dlg_msg_refund_success">Please remove the card</string>
+    <string name="sdk_dlg_msg_sw_upd_download_complete">Downloading of the current file completed…</string>
+    <string name="sdk_dlg_msg_sw_upd_download_in_progress">Download in progress…</string>
+    <string name="sdk_dlg_msg_sw_upd_fetching_keys">Fetching the terminal keys…</string>
+    <string name="sdk_dlg_msg_sw_upd_initiating">Initiating the software update…</string>
+    <string name="sdk_dlg_msg_sw_upd_install_in_progress">Installation in progress…</string>
+    <string name="sdk_dlg_msg_sw_upd_key_injection">Injecting the keys to terminal…</string>
+    <string name="sdk_dlg_msg_sw_upd_recommended">It\'s highly recommended that you update the software on the EMV device. \n\nWithout this, you can still take payments. But we highly recommended you update this</string>
+    <string name="sdk_dlg_msg_sw_upd_required">Software on the EMV device needs to be updated.\n\nWithout this, the device can\'t be used for taking the payments.</string>
+    <string name="sdk_dlg_msg_sw_upd_restarting_terminal">Restarting the terminal…</string>
+    <string name="sdk_dlg_msg_sw_upd_update_in_progress">Software update in progress…</string>
+    <string name="sdk_dlg_msg_trxn_cancelling">Cancelling…</string>
+    <string name="sdk_dlg_msg_trxn_confirm_amount">Check and Confirm Amount</string>
+    <string name="sdk_dlg_msg_trxn_processing_fallback">Processing…</string>
+    <string name="sdk_dlg_title_amount_too_high" note="">Amount Too High</string>
+    <string name="sdk_dlg_title_amount_too_low" note="">Amount Too Low</string>
+    <string name="sdk_dlg_title_card_blocked">Card blocked</string>
+    <string name="sdk_dlg_title_card_broken_chip">Unable to read card</string>
+    <string name="sdk_dlg_title_card_enter_pin">Please enter the PIN on the card reader keypad.</string>
+    <string name="sdk_dlg_title_card_incorrect_pin">Incorrect PIN</string>
+    <string name="sdk_dlg_title_card_insert">Please Insert Card</string>
+    <string name="sdk_dlg_title_card_invalid">Invalid card</string>
+    <string name="sdk_dlg_title_card_pin_verified">PIN OK</string>
+    <string name="sdk_dlg_title_card_swipe_not_allowed">Chip card detected</string>
+    <string name="sdk_dlg_title_card_tap_insert">Please tap, insert or swipe your card</string>
+    <string name="sdk_dlg_title_card_waiting_for_swipe">Please Swipe Card</string>
+    <string name="sdk_dlg_title_connecting_device">Connecting to </string>
+    <string name="sdk_dlg_title_disabled_reader" note="">Card Reader Disabled</string>
+    <string name="sdk_dlg_title_low_battery">Low Battery</string>
+    <string name="sdk_dlg_title_paired_devices">Connect To</string>
+    <string name="sdk_dlg_title_reader_not_connected_msg_payment">Please connect a card reader to process this payment</string>
+    <string name="sdk_dlg_title_reader_not_connected_msg_refund">Please connect a card reader to process this refund</string>
+    <string name="sdk_dlg_title_reader_not_connected_title">Card reader not connected</string>
+    <string name="sdk_dlg_title_receipt_sending">Sending Receipt</string>
+    <string name="sdk_dlg_title_refund_confirm_amount">Refund %s</string>
+    <string name="sdk_dlg_title_refund_failure">Refund Failed</string>
+    <string name="sdk_dlg_title_refund_failure_invalid_card">Cannot Refund</string>
+    <string name="sdk_dlg_title_refund_incorrect_card">Incorrect Card</string>
+    <string name="sdk_dlg_title_refund_initiating">Initiating Refund</string>
+    <string name="sdk_dlg_title_refund_option_with_card">Refund with card</string>
+    <string name="sdk_dlg_title_refund_option_without_card">Refund without card</string>
+    <string name="sdk_dlg_title_refund_options">Select refund type</string>
+    <string name="sdk_dlg_title_refund_processing">Processing Refund</string>
+    <string name="sdk_dlg_title_refund_success">%1$s Refunded</string>
+    <string name="sdk_dlg_title_sw_upd_recommended">Software update recommended</string>
+    <string name="sdk_dlg_title_sw_upd_required">Software Update Required</string>
+    <string name="sdk_dlg_title_sw_upd_updating">Updating the software</string>
+    <string name="sdk_dlg_title_trxn_choose_from_multi_app">Please choose an application</string>
+    <string name="sdk_dlg_title_trxn_completing">Completing Payment…</string>
+    <string name="sdk_dlg_title_trxn_confirm_amount">Pay %s</string>
+    <string name="sdk_dlg_title_trxn_failure">Declined</string>
+    <string name="sdk_dlg_title_trxn_initiating">Initiating Payment</string>
+    <string name="sdk_dlg_title_trxn_processing">Processing…</string>
+    <string name="sdk_dlg_title_trxn_processing_with_chip">Do Not Remove Card\nProcessing…</string>
+    <string name="sdk_dlg_title_trxn_successful">Payment Successful</string>
+    <string name="sdk_dlg_title_trxn_successful_amount">%1$s Paid</string>
+    <string name="sdk_error">Error</string>
+    <string name="sdk_finalize_transaction_failure">The transaction could not be completed successfully. Please try an alternative funding source.</string>
+    <string name="sdk_generic_error">System error. Please try again later.</string>
+    <string name="sdk_invoice_number_already_exists">An invoice already exists for the merchant with this invoice number: %1$s.</string>
+    <string name="sdk_merchant_account_limited">The merchant\'s account access has been limited</string>
+    <string name="sdk_mtp_failure_message">We\'re sorry, this transaction could not be completed. Please try again or cancel this order.</string>
+    <string name="sdk_network_not_reachable">You do not appear to be connected to the Internet. You must be connected in order to use PayPal Here.</string>
+    <string name="sdk_no" note="">No</string>
+    <string name="sdk_no_network_available">You do not appear to be connected to the Internet. You must be connected in order to use PayPal Here.</string>
+    <string name="sdk_not_now">Not now</string>
+    <string name="sdk_payment_processing_failure">We\'re sorry, this transaction could not be completed. Please try again or cancel this order.</string>
+    <string name="sdk_reader_amount_entered_too_high">Card maximum is\n%s</string>
+    <string name="sdk_reader_amount_entered_too_low">Card minimum is\n%s</string>
+    <string name="sdk_reader_amount_not_entered">Enter an amount\non the app.</string>
+    <string name="sdk_reader_cancelling_payment">Cancelling...</string>
+    <string name="sdk_reader_card_issuer_not_accepted">Card not recognised.\nPlease try a\ndifferent funding\nsource.</string>
+    <string name="sdk_reader_completing_payment">Completing payment...</string>
+    <string name="sdk_reader_completing_payment_with_card">Completing payment...\nDo not remove card.</string>
+    <string name="sdk_reader_confirm_amount">%s\nConfirm amount</string>
+    <string name="sdk_reader_contactless_insert_swipe">Unable to read card\nInsert or swipe card</string>
+    <string name="sdk_reader_contactless_timeout">%s\nTransaction timed out</string>
+    <string name="sdk_reader_contactless_try_another_card">Unable to read card\nInsert or swipe card\nor try another card</string>
+    <string name="sdk_reader_fallback_card_insert">Card issuer requires\nthat you insert\nthe card.</string>
+    <string name="sdk_reader_idle">Ready to accept\npayments.</string>
+    <string name="sdk_reader_idle_with_pending_sw_update">Software update\nrequired.</string>
+    <string name="sdk_reader_payment_cancelled">%s\nTransaction cancelled</string>
+    <string name="sdk_reader_payment_cancelled_with_card">%s\nTransaction cancelled\nPlease remove card.</string>
+    <string name="sdk_reader_payment_complete">%s paid.\nThank you!</string>
+    <string name="sdk_reader_payment_declined">%s\nDeclined.</string>
+    <string name="sdk_reader_payment_declined_receipt_message">Please contact your\ncard issuer.</string>
+    <string name="sdk_reader_payment_declined_with_card">%s\nDeclined.\nPlease remove card.</string>
+    <string name="sdk_reader_payment_failed">%s\nPayment Failed.</string>
+    <string name="sdk_reader_payment_pin_ok">Do Not Remove Card\nProcessing...\nPIN OK</string>
+    <string name="sdk_reader_payment_remove_card">%s paid.\nPlease remove card.</string>
+    <string name="sdk_reader_processing_payment">Processing...</string>
+    <string name="sdk_reader_processing_payment_with_amount">%s\nProcessing...</string>
+    <string name="sdk_reader_processing_payment_with_amount_and_card">%s\nDo Not Remove Card\nProcessing...</string>
+    <string name="sdk_reader_processing_payment_with_card">Do Not Remove Card\nProcessing...</string>
+    <string name="sdk_reader_refund_cancelled">%s\nRefund cancelled.</string>
+    <string name="sdk_reader_refund_complete">%s refunded.\nThank you!</string>
+    <string name="sdk_reader_refund_failed">%s\nRefund Failed.</string>
+    <string name="sdk_reader_refund_remove_card">%s refunded.\nPlease remove card.</string>
+    <string name="sdk_reader_retry_with_contact_card">Do you want to retry\nby inserting or\nswiping the card?</string>
+    <string name="sdk_reader_sw_update_downloading">Downloading update.\nPlease wait...</string>
+    <string name="sdk_reader_sw_update_failed">Software update\nfailed.</string>
+    <string name="sdk_reader_sw_update_initializing">Initializing\nthe reader...</string>
+    <string name="sdk_reader_sw_update_installing">Installing update.\nPlease wait...</string>
+    <string name="sdk_reader_sw_update_preparing">Preparing for\nupdate...</string>
+    <string name="sdk_reader_sw_update_restarting">Restarting\ncard reader...</string>
+    <string name="sdk_reader_swipe_card">Please swipe card.</string>
+    <string name="sdk_reader_swipe_not_allowed">Swipe not allowed\nPlease insert card</string>
+    <string name="sdk_reader_waiting_for_signature">Waiting for\nsignature...</string>
+    <string name="sdk_reader_wrong_online_pin">Incorrect PIN\nPlease try again</string>
+    <string name="sdk_try_again">Please try again.</string>
+    <string name="sdk_try_again_no_netowrk_message">We\'re sorry, no network available to complete the transaction. Please try again or cancel this order.</string>
+    <string name="sdk_unsupported_card_type">This credit card is not currently supported by PayPal Here. Please use another type of card.</string>
+    <string name="sdk_yes" note="">Yes</string>
+    <string name="send_receipt_email_change_description" note="accessibility hint">Change Email</string>
+    <string name="send_receipt_phone_change_description" note="accessibility hint">Change Number</string>
+    <string name="sms_international_code_msg" note="">The number must include the country code.</string>
+</resources>

@@ -1,0 +1,7 @@
+#Thu Oct 13 13:44:12 AEDT 2016
+base.0=/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fa720e59171b5599912fc0f20e8fb058f2bfbb6c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_13d68c39a9f3375a70d79ea328d3c57088052a54/classes.dex
+base.1=/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_13d68c39a9f3375a70d79ea328d3c57088052a54
+file.0=/Users/steven.cooper/Desktop/mobile/XeroHere/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fa720e59171b5599912fc0f20e8fb058f2bfbb6c/classes.dex
