@@ -11,6 +11,11 @@ For more info on generating your own private keys visit the [Private Keypair](ht
 
 You will also need a PayPal Here device and your PayPal account authorised to use [PayPal Here](https://paypal.com/here), please note that there is no sandbox environment for PayPal Here so you will need to develop in a live environment. 
 
+# Reference git repos
+This has been built as a combination of 2 repos
+- [Xero Private Android Sample](https://github.com/coderbec/Xero-Private-Sample) 
+- [PayPal Here Android SDK](https://github.com/PayPal-Mobile/android-here-sdk-dist)
+
 # Instructions
 
 Open /app/src/main/res/values/strings.xml and add 2 tags for api_key and api_secret from your private auth settings.
